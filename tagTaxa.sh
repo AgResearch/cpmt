@@ -3,7 +3,7 @@
 #Based on Tassel ver5.2.38
 #https://bitbucket.org/tasseladmin/tassel-5-source/wiki/Tassel5GBSv2Pipeline
 #precond:  see the link above for deploying raw data and keyfile
-#postcond: tag sequences and counts of each samples
+#postcond: tag sequences and counts of each individual samples
 #-----------------------------------------------------------------------------
 gbs="~/tools/tasseladmin-tassel-5-standalone-d937dbc2338c/run_pipeline.pl"
 proj="cpmt"
