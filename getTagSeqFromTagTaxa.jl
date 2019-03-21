@@ -1,5 +1,5 @@
 #------------------------------------------------------------
-#extract tag sequences and save as fasta files 
+#extract tag sequences per sample and save as fasta files 
 #precond:  tagTaxa text file -- output file from tagTaxa.sh
 #postcond: tag sequences saved in individual files  
 #tested in Julia v1.1.0
@@ -39,7 +39,7 @@ for sidx in 1:length(snames)
         id=string(i)*"-"*string(j)
         rec = FASTA.Record(id, DNASequence(tag1[i]))
         write(writer, rec)
-    end 
+      end 
     end
    end
    close(writer)
