@@ -1,0 +1,462 @@
+##sequence-region AM777385.2 1 135282
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4522
+AM777385.2	EMBL	region	1	135282	.	+	.	ID=id-1;Dbxref=taxon:4522;Is_circular=true;Name=Pltd;cultivar=Cashel;gbkey=Src;genome=chloroplast;mol_type=genomic DNA
+AM777385.2	EMBL	gene	87	1148	.	-	.	ID=gene-LopeCp001;Name=psbA;gbkey=Gene;gene=psbA;gene_biotype=protein_coding;locus_tag=LopeCp001
+AM777385.2	EMBL	CDS	87	1148	.	-	0	ID=cds-CAO85956.1;Parent=gene-LopeCp001;Dbxref=GOA:A8Y9F0,InterPro:IPR000484,InterPro:IPR005867,UniProtKB/Swiss-Prot:A8Y9F0,NCBI_GP:CAO85956.1;Name=CAO85956.1;gbkey=CDS;gene=psbA;product=photosystem II protein D1;protein_id=CAO85956.1;transl_table=11
+AM777385.2	EMBL	gene	3930	3966	.	-	.	ID=gene-LopeCp002;Name=trnK-UUU;gbkey=Gene;gene=trnK-UUU;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp002;part=1/2
+AM777385.2	EMBL	gene	1383	1417	.	-	.	ID=gene-LopeCp002;Name=trnK-UUU;gbkey=Gene;gene=trnK-UUU;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp002;part=2/2
+AM777385.2	EMBL	tRNA	1383	3966	.	-	.	ID=id-LopeCp002;Parent=gene-LopeCp002;gbkey=tRNA;gene=trnK-UUU;product=tRNA-Lys
+AM777385.2	EMBL	exon	3930	3966	.	-	.	ID=exon-id-LopeCp002-1;Parent=id-LopeCp002;gbkey=tRNA;gene=trnK-UUU;product=tRNA-Lys
+AM777385.2	EMBL	exon	1383	1417	.	-	.	ID=exon-id-LopeCp002-2;Parent=id-LopeCp002;gbkey=tRNA;gene=trnK-UUU;product=tRNA-Lys
+AM777385.2	EMBL	exon	1383	1417	.	-	.	ID=id-LopeCp002-2;Parent=gene-LopeCp002;exon_number=2;gbkey=exon;gene=trnK-UUU;number=2
+AM777385.2	EMBL	exon	3930	3966	.	-	.	ID=id-LopeCp002-1;Parent=gene-LopeCp002;exon_number=1;gbkey=exon;gene=trnK-UUU;number=1
+AM777385.2	EMBL	gene	1418	3929	.	-	.	ID=gene-LopeCp002-2;Name=trnK-UUU;gbkey=Gene;gene=trnK-UUU;gene_biotype=other;locus_tag=LopeCp002
+AM777385.2	EMBL	intron	1418	3929	.	-	.	ID=id-LopeCp002-3;Note=group II intron;exon_number=1;gbkey=intron;gene=trnK-UUU;number=1
+AM777385.2	EMBL	gene	1715	3250	.	-	.	ID=gene-LopeCp003;Name=matK;gbkey=Gene;gene=matK;gene_biotype=protein_coding;locus_tag=LopeCp003
+AM777385.2	EMBL	CDS	1715	3250	.	-	0	ID=cds-CAO85957.1;Parent=gene-LopeCp003;Dbxref=GOA:A8Y9F1,InterPro:IPR002866,UniProtKB/Swiss-Prot:A8Y9F1,NCBI_GP:CAO85957.1;Name=CAO85957.1;gbkey=CDS;gene=matK;product=maturase K;protein_id=CAO85957.1;transl_table=11
+AM777385.2	EMBL	gene	4545	5652	.	-	.	ID=gene-LopeCp004;Name=rps16;gbkey=Gene;gene=rps16;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp004;part=1/4
+AM777385.2	EMBL	gene	4545	4774	.	-	.	ID=gene-LopeCp004;Name=rps16;gbkey=Gene;gene=rps16;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp004;part=2/4
+AM777385.2	EMBL	gene	5613	5652	.	-	.	ID=gene-LopeCp004;Name=rps16;gbkey=Gene;gene=rps16;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp004;part=3/4
+AM777385.2	EMBL	gene	4775	5612	.	-	.	ID=gene-LopeCp004;Name=rps16;gbkey=Gene;gene=rps16;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp004;part=4/4
+AM777385.2	EMBL	CDS	5613	5652	.	-	0	ID=cds-CAO85958.1;Parent=gene-LopeCp004;Dbxref=GOA:A8Y9F2,InterPro:IPR000307,InterPro:IPR020592,InterPro:IPR023803,UniProtKB/TrEMBL:A8Y9F2,NCBI_GP:CAO85958.1;Name=CAO85958.1;gbkey=CDS;gene=rps16;product=ribosomal protein S16;protein_id=CAO85958.1;transl_table=11
+AM777385.2	EMBL	CDS	4545	4774	.	-	2	ID=cds-CAO85958.1;Parent=gene-LopeCp004;Dbxref=GOA:A8Y9F2,InterPro:IPR000307,InterPro:IPR020592,InterPro:IPR023803,UniProtKB/TrEMBL:A8Y9F2,NCBI_GP:CAO85958.1;Name=CAO85958.1;gbkey=CDS;gene=rps16;product=ribosomal protein S16;protein_id=CAO85958.1;transl_table=11
+AM777385.2	EMBL	exon	4545	4774	.	-	.	ID=id-LopeCp004-2;Parent=gene-LopeCp004;exon_number=2;gbkey=exon;gene=rps16;number=2
+AM777385.2	EMBL	exon	5613	5652	.	-	.	ID=id-LopeCp004-1;Parent=gene-LopeCp004;exon_number=1;gbkey=exon;gene=rps16;number=1
+AM777385.2	EMBL	intron	4775	5612	.	-	.	ID=id-LopeCp004;Note=group II intron;exon_number=1;gbkey=intron;gene=rps16;number=1
+AM777385.2	EMBL	gene	6467	6538	.	-	.	ID=gene-LopeCp005;Name=trnQ-UUG;gbkey=Gene;gene=trnQ-UUG;gene_biotype=tRNA;locus_tag=LopeCp005
+AM777385.2	EMBL	tRNA	6467	6538	.	-	.	ID=id-LopeCp005;Parent=gene-LopeCp005;gbkey=tRNA;gene=trnQ-UUG;product=tRNA-Gln
+AM777385.2	EMBL	exon	6467	6538	.	-	.	ID=exon-id-LopeCp005-1;Parent=id-LopeCp005;gbkey=tRNA;gene=trnQ-UUG;product=tRNA-Gln
+AM777385.2	EMBL	gene	6882	7067	.	+	.	ID=gene-LopeCp006;Name=psbK;gbkey=Gene;gene=psbK;gene_biotype=protein_coding;locus_tag=LopeCp006
+AM777385.2	EMBL	CDS	6882	7067	.	+	0	ID=cds-CAO85959.1;Parent=gene-LopeCp006;Dbxref=GOA:A8Y9F3,InterPro:IPR003687,UniProtKB/TrEMBL:A8Y9F3,NCBI_GP:CAO85959.1;Name=CAO85959.1;gbkey=CDS;gene=psbK;product=photosystem II protein K;protein_id=CAO85959.1;transl_table=11
+AM777385.2	EMBL	gene	7482	7592	.	+	.	ID=gene-LopeCp007;Name=psbI;gbkey=Gene;gene=psbI;gene_biotype=protein_coding;locus_tag=LopeCp007
+AM777385.2	EMBL	CDS	7482	7592	.	+	0	ID=cds-CAO85960.1;Parent=gene-LopeCp007;Dbxref=GOA:A8Y9F4,InterPro:IPR003686,UniProtKB/Swiss-Prot:A8Y9F4,NCBI_GP:CAO85960.1;Name=CAO85960.1;gbkey=CDS;gene=psbI;product=photosystem II protein I;protein_id=CAO85960.1;transl_table=11
+AM777385.2	EMBL	gene	7714	7801	.	-	.	ID=gene-LopeCp008;Name=trnS-GCU;gbkey=Gene;gene=trnS-GCU;gene_biotype=tRNA;locus_tag=LopeCp008
+AM777385.2	EMBL	tRNA	7714	7801	.	-	.	ID=id-LopeCp008;Parent=gene-LopeCp008;gbkey=tRNA;gene=trnS-GCU;product=tRNA-Ser
+AM777385.2	EMBL	exon	7714	7801	.	-	.	ID=exon-id-LopeCp008-1;Parent=id-LopeCp008;gbkey=tRNA;gene=trnS-GCU;product=tRNA-Ser
+AM777385.2	EMBL	gene	8783	9844	.	+	.	ID=gene-LopeCp009;Name=psbD;gbkey=Gene;gene=psbD;gene_biotype=protein_coding;locus_tag=LopeCp009
+AM777385.2	EMBL	CDS	8783	9844	.	+	0	ID=cds-CAO85961.1;Parent=gene-LopeCp009;Dbxref=GOA:A8Y9F5,InterPro:IPR000484,InterPro:IPR005868,UniProtKB/Swiss-Prot:A8Y9F5,NCBI_GP:CAO85961.1;Name=CAO85961.1;gbkey=CDS;gene=psbD;product=photosystem II protein D2;protein_id=CAO85961.1;transl_table=11
+AM777385.2	EMBL	gene	9792	11213	.	+	.	ID=gene-LopeCp010;Name=psbC;gbkey=Gene;gene=psbC;gene_biotype=protein_coding;locus_tag=LopeCp010
+AM777385.2	EMBL	CDS	9792	11213	.	+	0	ID=cds-CAO85962.1;Parent=gene-LopeCp010;Dbxref=GOA:A8Y9F6,InterPro:IPR000932,InterPro:IPR005869,UniProtKB/Swiss-Prot:A8Y9F6,NCBI_GP:CAO85962.1;Name=CAO85962.1;gbkey=CDS;gene=psbC;product=photosystem II protein CP43 chlorophyll apoprotein;protein_id=CAO85962.1;transl_table=11
+AM777385.2	EMBL	gene	11369	11456	.	-	.	ID=gene-LopeCp011;Name=trnS-UGA;gbkey=Gene;gene=trnS-UGA;gene_biotype=tRNA;locus_tag=LopeCp011
+AM777385.2	EMBL	tRNA	11369	11456	.	-	.	ID=id-LopeCp011;Parent=gene-LopeCp011;gbkey=tRNA;gene=trnS-UGA;product=tRNA-Ser
+AM777385.2	EMBL	exon	11369	11456	.	-	.	ID=exon-id-LopeCp011-1;Parent=id-LopeCp011;gbkey=tRNA;gene=trnS-UGA;product=tRNA-Ser
+AM777385.2	EMBL	gene	11812	12000	.	+	.	ID=gene-LopeCp012;Name=psbZ;gbkey=Gene;gene=psbZ;gene_biotype=protein_coding;locus_tag=LopeCp012
+AM777385.2	EMBL	CDS	11812	12000	.	+	0	ID=cds-CAO85963.1;Parent=gene-LopeCp012;Dbxref=GOA:A8Y9F7,InterPro:IPR002644,UniProtKB/TrEMBL:A8Y9F7,NCBI_GP:CAO85963.1;Name=CAO85963.1;gbkey=CDS;gene=psbZ;product=photosystem II reaction center Z protein;protein_id=CAO85963.1;transl_table=11
+AM777385.2	EMBL	gene	12282	12352	.	+	.	ID=gene-LopeCp013;Name=trnG-GCC;gbkey=Gene;gene=trnG-GCC;gene_biotype=tRNA;locus_tag=LopeCp013
+AM777385.2	EMBL	tRNA	12282	12352	.	+	.	ID=id-LopeCp013;Parent=gene-LopeCp013;gbkey=tRNA;gene=trnG-GCC;product=tRNA-Gly
+AM777385.2	EMBL	exon	12282	12352	.	+	.	ID=exon-id-LopeCp013-1;Parent=id-LopeCp013;gbkey=tRNA;gene=trnG-GCC;product=tRNA-Gly
+AM777385.2	EMBL	gene	12803	12876	.	-	.	ID=gene-LopeCp014;Name=trnfM-CAU;gbkey=Gene;gene=trnfM-CAU;gene_biotype=tRNA;locus_tag=LopeCp014
+AM777385.2	EMBL	tRNA	12803	12876	.	-	.	ID=id-LopeCp014;Parent=gene-LopeCp014;gbkey=tRNA;gene=trnfM-CAU;product=tRNA-Met
+AM777385.2	EMBL	exon	12803	12876	.	-	.	ID=exon-id-LopeCp014-1;Parent=id-LopeCp014;gbkey=tRNA;gene=trnfM-CAU;product=tRNA-Met
+AM777385.2	EMBL	gene	13694	13716	.	-	.	ID=gene-LopeCp015;Name=trnG-UCC;gbkey=Gene;gene=trnG-UCC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp015;part=1/3
+AM777385.2	EMBL	gene	13015	13693	.	-	.	ID=gene-LopeCp015;Name=trnG-UCC;gbkey=Gene;gene=trnG-UCC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp015;part=2/3
+AM777385.2	EMBL	gene	12967	13014	.	-	.	ID=gene-LopeCp015;Name=trnG-UCC;gbkey=Gene;gene=trnG-UCC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp015;part=3/3
+AM777385.2	EMBL	intron	13015	13693	.	-	.	ID=id-LopeCp015;Note=group II intron;exon_number=1;gbkey=intron;gene=trnG-UCC;number=1
+AM777385.2	EMBL	gene	13694	13716	.	-	.	ID=gene-LopeCp015-2;Name=trnG-UCC;gbkey=Gene;gene=trnG-UCC;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp015;part=1/2
+AM777385.2	EMBL	gene	12967	13014	.	-	.	ID=gene-LopeCp015-2;Name=trnG-UCC;gbkey=Gene;gene=trnG-UCC;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp015;part=2/2
+AM777385.2	EMBL	tRNA	12967	13716	.	-	.	ID=id-LopeCp015-2;Parent=gene-LopeCp015-2;gbkey=tRNA;gene=trnG-UCC;product=tRNA-Gly
+AM777385.2	EMBL	exon	13694	13716	.	-	.	ID=exon-id-LopeCp015-2-1;Parent=id-LopeCp015-2;gbkey=tRNA;gene=trnG-UCC;product=tRNA-Gly
+AM777385.2	EMBL	exon	12967	13014	.	-	.	ID=exon-id-LopeCp015-2-2;Parent=id-LopeCp015-2;gbkey=tRNA;gene=trnG-UCC;product=tRNA-Gly
+AM777385.2	EMBL	exon	12967	13014	.	-	.	ID=id-LopeCp015-2-2;Parent=gene-LopeCp015-2;exon_number=2;gbkey=exon;gene=trnG-UCC;number=2
+AM777385.2	EMBL	exon	13694	13716	.	-	.	ID=id-LopeCp015-1;Parent=gene-LopeCp015-2;exon_number=1;gbkey=exon;gene=trnG-UCC;number=1
+AM777385.2	EMBL	gene	14891	14962	.	+	.	ID=gene-LopeCp016;Name=trnT-GGU;gbkey=Gene;gene=trnT-GGU;gene_biotype=tRNA;locus_tag=LopeCp016
+AM777385.2	EMBL	tRNA	14891	14962	.	+	.	ID=id-LopeCp016;Parent=gene-LopeCp016;gbkey=tRNA;gene=trnT-GGU;product=tRNA-Thr
+AM777385.2	EMBL	exon	14891	14962	.	+	.	ID=exon-id-LopeCp016-1;Parent=id-LopeCp016;gbkey=tRNA;gene=trnT-GGU;product=tRNA-Thr
+AM777385.2	EMBL	gene	15499	15571	.	+	.	ID=gene-LopeCp017;Name=trnE-UUC;gbkey=Gene;gene=trnE-UUC;gene_biotype=tRNA;locus_tag=LopeCp017
+AM777385.2	EMBL	tRNA	15499	15571	.	+	.	ID=id-LopeCp017;Parent=gene-LopeCp017;gbkey=tRNA;gene=trnE-UUC;product=tRNA-Glu
+AM777385.2	EMBL	exon	15499	15571	.	+	.	ID=exon-id-LopeCp017-1;Parent=id-LopeCp017;gbkey=tRNA;gene=trnE-UUC;product=tRNA-Glu
+AM777385.2	EMBL	gene	15633	15716	.	+	.	ID=gene-LopeCp18;Name=trnY-GUA;gbkey=Gene;gene=trnY-GUA;gene_biotype=tRNA;locus_tag=LopeCp18
+AM777385.2	EMBL	tRNA	15633	15716	.	+	.	ID=id-LopeCp18;Parent=gene-LopeCp18;gbkey=tRNA;gene=trnY-GUA;product=tRNA-Tyr
+AM777385.2	EMBL	exon	15633	15716	.	+	.	ID=exon-id-LopeCp18-1;Parent=id-LopeCp18;gbkey=tRNA;gene=trnY-GUA;product=tRNA-Tyr
+AM777385.2	EMBL	gene	16080	16153	.	+	.	ID=gene-LopeCp019;Name=trnD-GUC;gbkey=Gene;gene=trnD-GUC;gene_biotype=tRNA;locus_tag=LopeCp019
+AM777385.2	EMBL	tRNA	16080	16153	.	+	.	ID=id-LopeCp019;Parent=gene-LopeCp019;gbkey=tRNA;gene=trnD-GUC;product=tRNA-Asp
+AM777385.2	EMBL	exon	16080	16153	.	+	.	ID=exon-id-LopeCp019-1;Parent=id-LopeCp019;gbkey=tRNA;gene=trnD-GUC;product=tRNA-Asp
+AM777385.2	EMBL	gene	16627	16731	.	+	.	ID=gene-LopeCp020;Name=psbM;gbkey=Gene;gene=psbM;gene_biotype=protein_coding;locus_tag=LopeCp020
+AM777385.2	EMBL	CDS	16627	16731	.	+	0	ID=cds-CAO85964.1;Parent=gene-LopeCp020;Dbxref=GOA:A8Y9F8,InterPro:IPR007826,UniProtKB/Swiss-Prot:A8Y9F8,NCBI_GP:CAO85964.1;Name=CAO85964.1;gbkey=CDS;gene=psbM;product=photosystem II protein M;protein_id=CAO85964.1;transl_table=11
+AM777385.2	EMBL	gene	17010	17099	.	-	.	ID=gene-LopeCp021;Name=petN;gbkey=Gene;gene=petN;gene_biotype=protein_coding;locus_tag=LopeCp021
+AM777385.2	EMBL	CDS	17010	17099	.	-	0	ID=cds-CAO85965.1;Parent=gene-LopeCp021;Dbxref=GOA:A8Y9F9,InterPro:IPR005497,UniProtKB/Swiss-Prot:A8Y9F9,NCBI_GP:CAO85965.1;Name=CAO85965.1;gbkey=CDS;gene=petN;product=cytochrome b6/f complex subunit N;protein_id=CAO85965.1;transl_table=11
+AM777385.2	EMBL	gene	18016	18086	.	-	.	ID=gene-LopeCp022;Name=trnC-GCA;gbkey=Gene;gene=trnC-GCA;gene_biotype=tRNA;locus_tag=LopeCp022
+AM777385.2	EMBL	tRNA	18016	18086	.	-	.	ID=id-LopeCp022;Parent=gene-LopeCp022;gbkey=tRNA;gene=trnC-GCA;product=tRNA-Cys
+AM777385.2	EMBL	exon	18016	18086	.	-	.	ID=exon-id-LopeCp022-1;Parent=id-LopeCp022;gbkey=tRNA;gene=trnC-GCA;product=tRNA-Cys
+AM777385.2	EMBL	gene	19271	22501	.	+	.	ID=gene-LopeCp023;Name=rpoB;gbkey=Gene;gene=rpoB;gene_biotype=protein_coding;locus_tag=LopeCp023
+AM777385.2	EMBL	CDS	19271	22501	.	+	0	ID=cds-CAO85966.1;Parent=gene-LopeCp023;Dbxref=GOA:A8Y9G0,InterPro:IPR007120,InterPro:IPR007121,InterPro:IPR007641,InterPro:IPR007642,InterPro:IPR007644,InterPro:IPR007645,InterPro:IPR010243,InterPro:IPR014724,InterPro:IPR015712,InterPro:IPR019462,UniProtKB/Swiss-Prot:A8Y9G0,NCBI_GP:CAO85966.1;Name=CAO85966.1;gbkey=CDS;gene=rpoB;product=RNA polymerase beta subunit;protein_id=CAO85966.1;transl_table=11
+AM777385.2	EMBL	gene	22539	24569	.	+	.	ID=gene-LopeCp024;Name=rpoC1;gbkey=Gene;gene=rpoC1;gene_biotype=protein_coding;locus_tag=LopeCp024
+AM777385.2	EMBL	CDS	22539	24569	.	+	0	ID=cds-CAO85967.1;Parent=gene-LopeCp024;Dbxref=GOA:A8Y9G1,InterPro:IPR000722,InterPro:IPR006592,InterPro:IPR007066,InterPro:IPR007080,UniProtKB/Swiss-Prot:A8Y9G1,NCBI_GP:CAO85967.1;Name=CAO85967.1;gbkey=CDS;gene=rpoC1;product=RNA polymerase beta ' subunit;protein_id=CAO85967.1;transl_table=11
+AM777385.2	EMBL	gene	24773	29173	.	+	.	ID=gene-LopeCp025;Name=rpoC2;gbkey=Gene;gene=rpoC2;gene_biotype=protein_coding;locus_tag=LopeCp025
+AM777385.2	EMBL	CDS	24773	29173	.	+	0	ID=cds-CAO85968.1;Parent=gene-LopeCp025;Dbxref=GOA:A8Y9G2,InterPro:IPR007081,InterPro:IPR007083,InterPro:IPR012756,UniProtKB/Swiss-Prot:A8Y9G2,NCBI_GP:CAO85968.1;Name=CAO85968.1;gbkey=CDS;gene=rpoC2;product=RNA polymerase beta '' subunit;protein_id=CAO85968.1;transl_table=11
+AM777385.2	EMBL	gene	29460	30170	.	+	.	ID=gene-LopeCp026;Name=rps2;gbkey=Gene;gene=rps2;gene_biotype=protein_coding;locus_tag=LopeCp026
+AM777385.2	EMBL	CDS	29460	30170	.	+	0	ID=cds-CAO85969.1;Parent=gene-LopeCp026;Dbxref=GOA:A8Y9G3,InterPro:IPR001865,InterPro:IPR005706,InterPro:IPR018130,InterPro:IPR023591,UniProtKB/Swiss-Prot:A8Y9G3,NCBI_GP:CAO85969.1;Name=CAO85969.1;gbkey=CDS;gene=rps2;product=ribosomal protein S2;protein_id=CAO85969.1;transl_table=11
+AM777385.2	EMBL	gene	30425	31168	.	+	.	ID=gene-LopeCp027;Name=atpI;gbkey=Gene;gene=atpI;gene_biotype=protein_coding;locus_tag=LopeCp027
+AM777385.2	EMBL	CDS	30425	31168	.	+	0	ID=cds-CAO85970.1;Parent=gene-LopeCp027;Dbxref=GOA:A8Y9G4,InterPro:IPR000568,InterPro:IPR023011,UniProtKB/Swiss-Prot:A8Y9G4,NCBI_GP:CAO85970.1;Name=CAO85970.1;gbkey=CDS;gene=atpI;product=ATP synthase CF0 subunit IV;protein_id=CAO85970.1;transl_table=11
+AM777385.2	EMBL	gene	31738	31983	.	+	.	ID=gene-LopeCp028;Name=atpH;gbkey=Gene;gene=atpH;gene_biotype=protein_coding;locus_tag=LopeCp028
+AM777385.2	EMBL	CDS	31738	31983	.	+	0	ID=cds-CAO85971.1;Parent=gene-LopeCp028;Dbxref=GOA:A8Y9G5,InterPro:IPR000454,InterPro:IPR002379,InterPro:IPR005953,InterPro:IPR020537,UniProtKB/Swiss-Prot:A8Y9G5,NCBI_GP:CAO85971.1;Name=CAO85971.1;gbkey=CDS;gene=atpH;product=ATP synthase CF0 III;protein_id=CAO85971.1;transl_table=11
+AM777385.2	EMBL	gene	32446	33873	.	+	.	ID=gene-LopeCp029;Name=atpF;gbkey=Gene;gene=atpF;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp029;part=1/4
+AM777385.2	EMBL	gene	32591	33466	.	+	.	ID=gene-LopeCp029;Name=atpF;gbkey=Gene;gene=atpF;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp029;part=2/4
+AM777385.2	EMBL	gene	33467	33873	.	+	.	ID=gene-LopeCp029;Name=atpF;gbkey=Gene;gene=atpF;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp029;part=3/4
+AM777385.2	EMBL	gene	32446	32590	.	+	.	ID=gene-LopeCp029;Name=atpF;gbkey=Gene;gene=atpF;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp029;part=4/4
+AM777385.2	EMBL	CDS	32446	32590	.	+	0	ID=cds-CAO85972.1;Parent=gene-LopeCp029;Dbxref=GOA:A8Y9G6,InterPro:IPR002146,UniProtKB/Swiss-Prot:A8Y9G6,NCBI_GP:CAO85972.1;Name=CAO85972.1;gbkey=CDS;gene=atpF;product=ATP synthase CF0 subunit I;protein_id=CAO85972.1;transl_table=11
+AM777385.2	EMBL	CDS	33467	33873	.	+	2	ID=cds-CAO85972.1;Parent=gene-LopeCp029;Dbxref=GOA:A8Y9G6,InterPro:IPR002146,UniProtKB/Swiss-Prot:A8Y9G6,NCBI_GP:CAO85972.1;Name=CAO85972.1;gbkey=CDS;gene=atpF;product=ATP synthase CF0 subunit I;protein_id=CAO85972.1;transl_table=11
+AM777385.2	EMBL	exon	32446	32590	.	+	.	ID=id-LopeCp029-1;Parent=gene-LopeCp029;exon_number=1;gbkey=exon;gene=atpF;number=1
+AM777385.2	EMBL	exon	33467	33873	.	+	.	ID=id-LopeCp029-2;Parent=gene-LopeCp029;exon_number=2;gbkey=exon;gene=atpF;number=2
+AM777385.2	EMBL	intron	32591	33466	.	+	.	ID=id-LopeCp029;Note=group II intron;exon_number=1;gbkey=intron;gene=atpF;number=1
+AM777385.2	EMBL	gene	33965	35488	.	+	.	ID=gene-LopeCp030;Name=atpA;gbkey=Gene;gene=atpA;gene_biotype=protein_coding;locus_tag=LopeCp030
+AM777385.2	EMBL	CDS	33965	35488	.	+	0	ID=cds-CAO85973.1;Parent=gene-LopeCp030;Dbxref=GOA:A8Y9G7,InterPro:IPR000194,InterPro:IPR000793,InterPro:IPR004100,InterPro:IPR005294,InterPro:IPR018118,InterPro:IPR020003,InterPro:IPR023366,UniProtKB/Swiss-Prot:A8Y9G7,NCBI_GP:CAO85973.1;Name=CAO85973.1;gbkey=CDS;gene=atpA;product=ATP synthase CF1 alpha subunit;protein_id=CAO85973.1;transl_table=11
+AM777385.2	EMBL	gene	35590	35661	.	-	.	ID=gene-LopeCp031;Name=trnR-UCU;gbkey=Gene;gene=trnR-UCU;gene_biotype=tRNA;locus_tag=LopeCp031
+AM777385.2	EMBL	tRNA	35590	35661	.	-	.	ID=id-LopeCp031;Parent=gene-LopeCp031;gbkey=tRNA;gene=trnR-UCU;product=tRNA-Arg
+AM777385.2	EMBL	exon	35590	35661	.	-	.	ID=exon-id-LopeCp031-1;Parent=id-LopeCp031;gbkey=tRNA;gene=trnR-UCU;product=tRNA-Arg
+AM777385.2	EMBL	gene	36041	36352	.	-	.	ID=gene-LopeCp032;Name=rps14;gbkey=Gene;gene=rps14;gene_biotype=protein_coding;locus_tag=LopeCp032
+AM777385.2	EMBL	CDS	36041	36352	.	-	0	ID=cds-CAO85974.1;Parent=gene-LopeCp032;Dbxref=GOA:A8Y9G8,InterPro:IPR001209,InterPro:IPR018271,InterPro:IPR023036,UniProtKB/Swiss-Prot:A8Y9G8,NCBI_GP:CAO85974.1;Name=CAO85974.1;gbkey=CDS;gene=rps14;product=ribosomal protein S14;protein_id=CAO85974.1;transl_table=11
+AM777385.2	EMBL	gene	36513	38717	.	-	.	ID=gene-LopeCp033;Name=psaB;gbkey=Gene;gene=psaB;gene_biotype=protein_coding;locus_tag=LopeCp033
+AM777385.2	EMBL	CDS	36513	38717	.	-	0	ID=cds-CAO85975.1;Parent=gene-LopeCp033;Dbxref=GOA:A8Y9G9,InterPro:IPR001280,InterPro:IPR006244,InterPro:IPR020586,UniProtKB/TrEMBL:A8Y9G9,NCBI_GP:CAO85975.1;Name=CAO85975.1;gbkey=CDS;gene=psaB;product=photosystem I P700 apoprotein A2;protein_id=CAO85975.1;transl_table=11
+AM777385.2	EMBL	gene	38743	40995	.	-	.	ID=gene-LopeCp034;Name=psaA;gbkey=Gene;gene=psaA;gene_biotype=protein_coding;locus_tag=LopeCp034
+AM777385.2	EMBL	CDS	38743	40995	.	-	0	ID=cds-CAO85976.1;Parent=gene-LopeCp034;Dbxref=GOA:A8Y9H0,InterPro:IPR001280,InterPro:IPR006243,InterPro:IPR020586,UniProtKB/TrEMBL:A8Y9H0,NCBI_GP:CAO85976.1;Name=CAO85976.1;gbkey=CDS;gene=psaA;product=photosystem I P700 apoprotein A1;protein_id=CAO85976.1;transl_table=11
+AM777385.2	EMBL	gene	41651	43642	.	-	.	ID=gene-LopeCp035;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp035;part=1/6
+AM777385.2	EMBL	gene	41651	41809	.	-	.	ID=gene-LopeCp035;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp035;part=2/6
+AM777385.2	EMBL	gene	43519	43642	.	-	.	ID=gene-LopeCp035;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp035;part=3/6
+AM777385.2	EMBL	gene	42761	43518	.	-	.	ID=gene-LopeCp035;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp035;part=4/6
+AM777385.2	EMBL	gene	42531	42760	.	-	.	ID=gene-LopeCp035;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp035;part=5/6
+AM777385.2	EMBL	gene	41810	42530	.	-	.	ID=gene-LopeCp035;Name=ycf3;gbkey=Gene;gene=ycf3;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp035;part=6/6
+AM777385.2	EMBL	CDS	43519	43642	.	-	0	ID=cds-CAO85977.1;Parent=gene-LopeCp035;Dbxref=GOA:A8Y9H1,InterPro:IPR001440,InterPro:IPR011990,InterPro:IPR013026,InterPro:IPR019734,InterPro:IPR022818,UniProtKB/Swiss-Prot:A8Y9H1,NCBI_GP:CAO85977.1;Name=CAO85977.1;gbkey=CDS;gene=ycf3;product=photosystem I assembly protein ycf3;protein_id=CAO85977.1;transl_table=11
+AM777385.2	EMBL	CDS	42531	42760	.	-	2	ID=cds-CAO85977.1;Parent=gene-LopeCp035;Dbxref=GOA:A8Y9H1,InterPro:IPR001440,InterPro:IPR011990,InterPro:IPR013026,InterPro:IPR019734,InterPro:IPR022818,UniProtKB/Swiss-Prot:A8Y9H1,NCBI_GP:CAO85977.1;Name=CAO85977.1;gbkey=CDS;gene=ycf3;product=photosystem I assembly protein ycf3;protein_id=CAO85977.1;transl_table=11
+AM777385.2	EMBL	CDS	41651	41809	.	-	0	ID=cds-CAO85977.1;Parent=gene-LopeCp035;Dbxref=GOA:A8Y9H1,InterPro:IPR001440,InterPro:IPR011990,InterPro:IPR013026,InterPro:IPR019734,InterPro:IPR022818,UniProtKB/Swiss-Prot:A8Y9H1,NCBI_GP:CAO85977.1;Name=CAO85977.1;gbkey=CDS;gene=ycf3;product=photosystem I assembly protein ycf3;protein_id=CAO85977.1;transl_table=11
+AM777385.2	EMBL	exon	41651	41809	.	-	.	ID=id-LopeCp035-3;Parent=gene-LopeCp035;exon_number=3;gbkey=exon;gene=ycf3;number=3
+AM777385.2	EMBL	exon	42531	42760	.	-	.	ID=id-LopeCp035-2;Parent=gene-LopeCp035;exon_number=2;gbkey=exon;gene=ycf3;number=2
+AM777385.2	EMBL	exon	43519	43642	.	-	.	ID=id-LopeCp035-1;Parent=gene-LopeCp035;exon_number=1;gbkey=exon;gene=ycf3;number=1
+AM777385.2	EMBL	intron	41810	42530	.	-	.	ID=id-LopeCp035;Note=group II intron;exon_number=2;gbkey=intron;gene=ycf3;number=2
+AM777385.2	EMBL	intron	42761	43518	.	-	.	ID=id-LopeCp035-4;Note=group II intron;exon_number=1;gbkey=intron;gene=ycf3;number=1
+AM777385.2	EMBL	gene	44239	44325	.	+	.	ID=gene-LopeCp036;Name=trnS-GGA;gbkey=Gene;gene=trnS-GGA;gene_biotype=tRNA;locus_tag=LopeCp036
+AM777385.2	EMBL	tRNA	44239	44325	.	+	.	ID=id-LopeCp036;Parent=gene-LopeCp036;gbkey=tRNA;gene=trnS-GGA;product=tRNA-Ser
+AM777385.2	EMBL	exon	44239	44325	.	+	.	ID=exon-id-LopeCp036-1;Parent=id-LopeCp036;gbkey=tRNA;gene=trnS-GGA;product=tRNA-Ser
+AM777385.2	EMBL	gene	44591	45196	.	-	.	ID=gene-LopeCp037;Name=rps4;gbkey=Gene;gene=rps4;gene_biotype=protein_coding;locus_tag=LopeCp037
+AM777385.2	EMBL	CDS	44591	45196	.	-	0	ID=cds-CAO85978.1;Parent=gene-LopeCp037;Dbxref=GOA:P69646,InterPro:IPR001912,InterPro:IPR002942,InterPro:IPR005709,InterPro:IPR018079,InterPro:IPR022801,UniProtKB/Swiss-Prot:P69646,NCBI_GP:CAO85978.1;Name=CAO85978.1;gbkey=CDS;gene=rps4;product=ribosomal protein S4;protein_id=CAO85978.1;transl_table=11
+AM777385.2	EMBL	gene	45516	45588	.	-	.	ID=gene-LopeCp038;Name=trnT-UGU;gbkey=Gene;gene=trnT-UGU;gene_biotype=tRNA;locus_tag=LopeCp038
+AM777385.2	EMBL	tRNA	45516	45588	.	-	.	ID=id-LopeCp038;Parent=gene-LopeCp038;gbkey=tRNA;gene=trnT-UGU;product=tRNA-Thr
+AM777385.2	EMBL	exon	45516	45588	.	-	.	ID=exon-id-LopeCp038-1;Parent=id-LopeCp038;gbkey=tRNA;gene=trnT-UGU;product=tRNA-Thr
+AM777385.2	EMBL	gene	46413	46447	.	+	.	ID=gene-LopeCp039;Name=trnL-UAA;gbkey=Gene;gene=trnL-UAA;gene_biotype=other;is_ordered=true;locus_tag=LopeCp039;part=1/3
+AM777385.2	EMBL	gene	46448	46996	.	+	.	ID=gene-LopeCp039;Name=trnL-UAA;gbkey=Gene;gene=trnL-UAA;gene_biotype=other;is_ordered=true;locus_tag=LopeCp039;part=2/3
+AM777385.2	EMBL	gene	46997	47046	.	+	.	ID=gene-LopeCp039;Name=trnL-UAA;gbkey=Gene;gene=trnL-UAA;gene_biotype=other;is_ordered=true;locus_tag=LopeCp039;part=3/3
+AM777385.2	EMBL	intron	46448	46996	.	+	.	ID=id-LopeCp039;Note=group II intron;exon_number=1;gbkey=intron;gene=trnL-UAA;number=1
+AM777385.2	EMBL	gene	46413	46447	.	+	.	ID=gene-LopeCp039-2;Name=trnL-UAA;gbkey=Gene;gene=trnL-UAA;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp039;part=1/2
+AM777385.2	EMBL	gene	46997	47046	.	+	.	ID=gene-LopeCp039-2;Name=trnL-UAA;gbkey=Gene;gene=trnL-UAA;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp039;part=2/2
+AM777385.2	EMBL	tRNA	46413	47046	.	+	.	ID=id-LopeCp039-2;Parent=gene-LopeCp039-2;gbkey=tRNA;gene=trnL-UAA;product=tRNA-Leu
+AM777385.2	EMBL	exon	46413	46447	.	+	.	ID=exon-id-LopeCp039-2-1;Parent=id-LopeCp039-2;gbkey=tRNA;gene=trnL-UAA;product=tRNA-Leu
+AM777385.2	EMBL	exon	46997	47046	.	+	.	ID=exon-id-LopeCp039-2-2;Parent=id-LopeCp039-2;gbkey=tRNA;gene=trnL-UAA;product=tRNA-Leu
+AM777385.2	EMBL	exon	46413	46447	.	+	.	ID=id-LopeCp039-1;Parent=gene-LopeCp039-2;exon_number=1;gbkey=exon;gene=trnL-UAA;number=1
+AM777385.2	EMBL	exon	46997	47046	.	+	.	ID=id-LopeCp039-2-2;Parent=gene-LopeCp039-2;exon_number=2;gbkey=exon;gene=trnL-UAA;number=2
+AM777385.2	EMBL	gene	47395	47467	.	+	.	ID=gene-LopeCp040;Name=trnF-GAA;gbkey=Gene;gene=trnF-GAA;gene_biotype=tRNA;locus_tag=LopeCp040
+AM777385.2	EMBL	tRNA	47395	47467	.	+	.	ID=id-LopeCp040;Parent=gene-LopeCp040;gbkey=tRNA;gene=trnF-GAA;product=tRNA-Phe
+AM777385.2	EMBL	exon	47395	47467	.	+	.	ID=exon-id-LopeCp040-1;Parent=id-LopeCp040;gbkey=tRNA;gene=trnF-GAA;product=tRNA-Phe
+AM777385.2	EMBL	gene	48053	48532	.	-	.	ID=gene-LopeCp041;Name=ndhJ;gbkey=Gene;gene=ndhJ;gene_biotype=protein_coding;locus_tag=LopeCp041
+AM777385.2	EMBL	CDS	48053	48532	.	-	0	ID=cds-CAO85979.1;Parent=gene-LopeCp041;Dbxref=GOA:A8Y9H3,InterPro:IPR001268,InterPro:IPR010218,InterPro:IPR020396,UniProtKB/Swiss-Prot:A8Y9H3,NCBI_GP:CAO85979.1;Name=CAO85979.1;gbkey=CDS;gene=ndhJ;product=NADH-plastoquinone oxidoreductase subunit J;protein_id=CAO85979.1;transl_table=11
+AM777385.2	EMBL	gene	48632	49372	.	-	.	ID=gene-LopeCp042;Name=ndhK;gbkey=Gene;gene=ndhK;gene_biotype=protein_coding;locus_tag=LopeCp042
+AM777385.2	EMBL	CDS	48632	49372	.	-	0	ID=cds-CAO85980.1;Parent=gene-LopeCp042;Dbxref=GOA:A8Y9H4,InterPro:IPR006137,InterPro:IPR006138,InterPro:IPR014406,UniProtKB/Swiss-Prot:A8Y9H4,NCBI_GP:CAO85980.1;Name=CAO85980.1;gbkey=CDS;gene=ndhK;product=NADH-plastoquinone oxidoreductase subunit K;protein_id=CAO85980.1;transl_table=11
+AM777385.2	EMBL	gene	49363	49725	.	-	.	ID=gene-LopeCp043;Name=ndhC;gbkey=Gene;gene=ndhC;gene_biotype=protein_coding;locus_tag=LopeCp043
+AM777385.2	EMBL	CDS	49363	49725	.	-	0	ID=cds-CAO85981.1;Parent=gene-LopeCp043;Dbxref=GOA:A8Y9H5,InterPro:IPR000440,InterPro:IPR023043,UniProtKB/Swiss-Prot:A8Y9H5,NCBI_GP:CAO85981.1;Name=CAO85981.1;gbkey=CDS;gene=ndhC;product=NADH-plastoquinone oxidoreductase subunit 3;protein_id=CAO85981.1;transl_table=11
+AM777385.2	EMBL	gene	51209	51247	.	-	.	ID=gene-LopeCp044;Name=trnV-UAC;gbkey=Gene;gene=trnV-UAC;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp044;part=1/2
+AM777385.2	EMBL	gene	50569	50603	.	-	.	ID=gene-LopeCp044;Name=trnV-UAC;gbkey=Gene;gene=trnV-UAC;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp044;part=2/2
+AM777385.2	EMBL	tRNA	50569	51247	.	-	.	ID=id-LopeCp044;Parent=gene-LopeCp044;gbkey=tRNA;gene=trnV-UAC;product=tRNA-Val
+AM777385.2	EMBL	exon	51209	51247	.	-	.	ID=exon-id-LopeCp044-1;Parent=id-LopeCp044;gbkey=tRNA;gene=trnV-UAC;product=tRNA-Val
+AM777385.2	EMBL	exon	50569	50603	.	-	.	ID=exon-id-LopeCp044-2;Parent=id-LopeCp044;gbkey=tRNA;gene=trnV-UAC;product=tRNA-Val
+AM777385.2	EMBL	exon	50569	50603	.	-	.	ID=id-LopeCp044-2;Parent=gene-LopeCp044;exon_number=2;gbkey=exon;gene=trnV-UAC;number=2
+AM777385.2	EMBL	exon	51209	51247	.	-	.	ID=id-LopeCp044-1;Parent=gene-LopeCp044;exon_number=1;gbkey=exon;gene=trnV-UAC;number=1
+AM777385.2	EMBL	gene	51209	51247	.	-	.	ID=gene-LopeCp044-2;Name=trnV-UAC;gbkey=Gene;gene=trnV-UAC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp044;part=1/3
+AM777385.2	EMBL	gene	50604	51208	.	-	.	ID=gene-LopeCp044-2;Name=trnV-UAC;gbkey=Gene;gene=trnV-UAC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp044;part=2/3
+AM777385.2	EMBL	gene	50569	50603	.	-	.	ID=gene-LopeCp044-2;Name=trnV-UAC;gbkey=Gene;gene=trnV-UAC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp044;part=3/3
+AM777385.2	EMBL	intron	50604	51208	.	-	.	ID=id-LopeCp044-3;Note=group II intron;gbkey=intron;gene=trnV-UAC
+AM777385.2	EMBL	gene	51434	51506	.	+	.	ID=gene-LopeCp045;Name=trnM-CAU;gbkey=Gene;gene=trnM-CAU;gene_biotype=tRNA;locus_tag=LopeCp045
+AM777385.2	EMBL	tRNA	51434	51506	.	+	.	ID=id-LopeCp045;Parent=gene-LopeCp045;gbkey=tRNA;gene=trnM-CAU;product=tRNA-Met
+AM777385.2	EMBL	exon	51434	51506	.	+	.	ID=exon-id-LopeCp045-1;Parent=id-LopeCp045;gbkey=tRNA;gene=trnM-CAU;product=tRNA-Met
+AM777385.2	EMBL	gene	51621	52034	.	-	.	ID=gene-LopeCp046;Name=atpE;gbkey=Gene;gene=atpE;gene_biotype=protein_coding;locus_tag=LopeCp046
+AM777385.2	EMBL	CDS	51621	52034	.	-	0	ID=cds-CAO85982.1;Parent=gene-LopeCp046;Dbxref=GOA:A8Y9H6,InterPro:IPR001469,InterPro:IPR020546,InterPro:IPR020547,UniProtKB/TrEMBL:A8Y9H6,NCBI_GP:CAO85982.1;Name=CAO85982.1;gbkey=CDS;gene=atpE;product=ATP synthase CF1 epsilon subunit;protein_id=CAO85982.1;transl_table=11
+AM777385.2	EMBL	gene	52031	53527	.	-	.	ID=gene-LopeCp047;Name=atpB;gbkey=Gene;gene=atpB;gene_biotype=protein_coding;locus_tag=LopeCp047
+AM777385.2	EMBL	CDS	52031	53527	.	-	0	ID=cds-CAO85983.1;Parent=gene-LopeCp047;Dbxref=GOA:A8Y9H7,InterPro:IPR000194,InterPro:IPR000793,InterPro:IPR003593,InterPro:IPR004100,InterPro:IPR005722,InterPro:IPR018118,InterPro:IPR020003,InterPro:IPR024034,UniProtKB/Swiss-Prot:A8Y9H7,NCBI_GP:CAO85983.1;Name=CAO85983.1;gbkey=CDS;gene=atpB;product=ATP synthase CF1 beta subunit;protein_id=CAO85983.1;transl_table=11
+AM777385.2	EMBL	gene	54321	55754	.	+	.	ID=gene-LopeCp048;Name=rbcL;gbkey=Gene;gene=rbcL;gene_biotype=protein_coding;locus_tag=LopeCp048
+AM777385.2	EMBL	CDS	54321	55754	.	+	0	ID=cds-CAO85984.1;Parent=gene-LopeCp048;Dbxref=GOA:A8Y9H8,InterPro:IPR000685,InterPro:IPR017443,InterPro:IPR017444,InterPro:IPR020878,InterPro:IPR020888,UniProtKB/Swiss-Prot:A8Y9H8,NCBI_GP:CAO85984.1;Name=CAO85984.1;gbkey=CDS;gene=rbcL;product=ribulose-1%2C5-bisphosphate carboxylase/oxygenase large subunit;protein_id=CAO85984.1;transl_table=11
+AM777385.2	EMBL	gene	56938	57048	.	+	.	ID=gene-LopeCp049;Name=psaI;gbkey=Gene;gene=psaI;gene_biotype=protein_coding;locus_tag=LopeCp049
+AM777385.2	EMBL	CDS	56938	57048	.	+	0	ID=cds-CAO85985.1;Parent=gene-LopeCp049;Dbxref=GOA:A8Y9H9,InterPro:IPR001302,UniProtKB/TrEMBL:A8Y9H9,NCBI_GP:CAO85985.1;Name=CAO85985.1;gbkey=CDS;gene=psaI;product=photosystem I subunit VIII;protein_id=CAO85985.1;transl_table=11
+AM777385.2	EMBL	gene	57357	57914	.	+	.	ID=gene-LopeCp050;Name=ycf4;gbkey=Gene;gene=ycf4;gene_biotype=protein_coding;locus_tag=LopeCp050
+AM777385.2	EMBL	CDS	57357	57914	.	+	0	ID=cds-CAO85986.1;Parent=gene-LopeCp050;Dbxref=GOA:A8Y9I0,InterPro:IPR003359,UniProtKB/Swiss-Prot:A8Y9I0,NCBI_GP:CAO85986.1;Name=CAO85986.1;gbkey=CDS;gene=ycf4;product=photosystem I assembly protein ycf4;protein_id=CAO85986.1;transl_table=11
+AM777385.2	EMBL	gene	58374	59066	.	+	.	ID=gene-LopeCp051;Name=cemA;gbkey=Gene;gene=cemA;gene_biotype=protein_coding;locus_tag=LopeCp051
+AM777385.2	EMBL	CDS	58374	59066	.	+	0	ID=cds-CAO85987.1;Parent=gene-LopeCp051;Dbxref=GOA:A8Y9I1,InterPro:IPR004282,UniProtKB/Swiss-Prot:A8Y9I1,NCBI_GP:CAO85987.1;Name=CAO85987.1;gbkey=CDS;gene=cemA;product=chloroplast envelope membrane protein;protein_id=CAO85987.1;transl_table=11
+AM777385.2	EMBL	gene	59289	60251	.	+	.	ID=gene-LopeCp052;Name=petA;gbkey=Gene;gene=petA;gene_biotype=protein_coding;locus_tag=LopeCp052
+AM777385.2	EMBL	CDS	59289	60251	.	+	0	ID=cds-CAO85988.1;Parent=gene-LopeCp052;Dbxref=GOA:A8Y999,InterPro:IPR002325,InterPro:IPR011054,InterPro:IPR024058,InterPro:IPR024094,UniProtKB/Swiss-Prot:A8Y999,NCBI_GP:CAO85988.1;Name=CAO85988.1;gbkey=CDS;gene=petA;product=cytochrome f;protein_id=CAO85988.1;transl_table=11
+AM777385.2	EMBL	gene	61047	61169	.	-	.	ID=gene-LopeCp053;Name=psbJ;gbkey=Gene;gene=psbJ;gene_biotype=protein_coding;locus_tag=LopeCp053
+AM777385.2	EMBL	CDS	61047	61169	.	-	0	ID=cds-CAO85989.1;Parent=gene-LopeCp053;Dbxref=GOA:A8Y9A0,InterPro:IPR002682,UniProtKB/Swiss-Prot:A8Y9A0,NCBI_GP:CAO85989.1;Name=CAO85989.1;gbkey=CDS;gene=psbJ;product=photosystem II protein J;protein_id=CAO85989.1;transl_table=11
+AM777385.2	EMBL	gene	61333	61449	.	-	.	ID=gene-LopeCp054;Name=psbL;gbkey=Gene;gene=psbL;gene_biotype=protein_coding;locus_tag=LopeCp054
+AM777385.2	EMBL	CDS	61333	61449	.	-	0	ID=cds-CAO85990.1;Parent=gene-LopeCp054;Dbxref=GOA:A8Y9A1,InterPro:IPR003372,UniProtKB/Swiss-Prot:A8Y9A1,NCBI_GP:CAO85990.1;Name=CAO85990.1;gbkey=CDS;gene=psbL;product=photosystem II protein L;protein_id=CAO85990.1;transl_table=11
+AM777385.2	EMBL	gene	61472	61591	.	-	.	ID=gene-LopeCp055;Name=psbF;gbkey=Gene;gene=psbF;gene_biotype=protein_coding;locus_tag=LopeCp055
+AM777385.2	EMBL	CDS	61472	61591	.	-	0	ID=cds-CAO85991.1;Parent=gene-LopeCp055;Dbxref=GOA:A8Y9A2,InterPro:IPR006216,InterPro:IPR006241,InterPro:IPR013081,UniProtKB/TrEMBL:A8Y9A2,NCBI_GP:CAO85991.1;Name=CAO85991.1;gbkey=CDS;gene=psbF;product=photosystem II cytochrome b559 beta subunit;protein_id=CAO85991.1;transl_table=11
+AM777385.2	EMBL	gene	61602	61853	.	-	.	ID=gene-LopeCp056;Name=psbE;gbkey=Gene;gene=psbE;gene_biotype=protein_coding;locus_tag=LopeCp056
+AM777385.2	EMBL	CDS	61602	61853	.	-	0	ID=cds-CAO85992.1;Parent=gene-LopeCp056;Dbxref=GOA:A8Y9A3,InterPro:IPR006216,InterPro:IPR006217,InterPro:IPR013081,InterPro:IPR013082,UniProtKB/TrEMBL:A8Y9A3,NCBI_GP:CAO85992.1;Name=CAO85992.1;gbkey=CDS;gene=psbE;product=photosystem II cytochrome b559 alpha subunit;protein_id=CAO85992.1;transl_table=11
+AM777385.2	EMBL	gene	63134	63229	.	+	.	ID=gene-LopeCp057;Name=petL;gbkey=Gene;gene=petL;gene_biotype=protein_coding;locus_tag=LopeCp057
+AM777385.2	EMBL	CDS	63134	63229	.	+	0	ID=cds-CAO85993.1;Parent=gene-LopeCp057;Dbxref=GOA:A8Y9A4,InterPro:IPR007802,UniProtKB/TrEMBL:A8Y9A4,NCBI_GP:CAO85993.1;Name=CAO85993.1;gbkey=CDS;gene=petL;product=cytochrome b6/f complex subunit VI;protein_id=CAO85993.1;transl_table=11
+AM777385.2	EMBL	gene	63403	63516	.	+	.	ID=gene-LopeCp058;Name=petG;gbkey=Gene;gene=petG;gene_biotype=protein_coding;locus_tag=LopeCp058
+AM777385.2	EMBL	CDS	63403	63516	.	+	0	ID=cds-CAO85994.1;Parent=gene-LopeCp058;Dbxref=GOA:A8Y9A5,InterPro:IPR003683,UniProtKB/Swiss-Prot:A8Y9A5,NCBI_GP:CAO85994.1;Name=CAO85994.1;gbkey=CDS;gene=petG;product=cytochrome b6/f complex subunit V;protein_id=CAO85994.1;transl_table=11
+AM777385.2	EMBL	gene	63639	63712	.	-	.	ID=gene-LopeCp059;Name=trnW-CCA;gbkey=Gene;gene=trnW-CCA;gene_biotype=tRNA;locus_tag=LopeCp059
+AM777385.2	EMBL	tRNA	63639	63712	.	-	.	ID=id-LopeCp059;Parent=gene-LopeCp059;gbkey=tRNA;gene=trnW-CCA;product=tRNA-Trp
+AM777385.2	EMBL	exon	63639	63712	.	-	.	ID=exon-id-LopeCp059-1;Parent=id-LopeCp059;gbkey=tRNA;gene=trnW-CCA;product=tRNA-Trp
+AM777385.2	EMBL	gene	63853	63926	.	-	.	ID=gene-LopeCp060;Name=trnP-UGG;gbkey=Gene;gene=trnP-UGG;gene_biotype=tRNA;locus_tag=LopeCp060
+AM777385.2	EMBL	tRNA	63853	63926	.	-	.	ID=id-LopeCp060;Parent=gene-LopeCp060;gbkey=tRNA;gene=trnP-UGG;product=tRNA-Pro
+AM777385.2	EMBL	exon	63853	63926	.	-	.	ID=exon-id-LopeCp060-1;Parent=id-LopeCp060;gbkey=tRNA;gene=trnP-UGG;product=tRNA-Pro
+AM777385.2	EMBL	gene	64264	64392	.	+	.	ID=gene-LopeCp061;Name=psaJ;gbkey=Gene;gene=psaJ;gene_biotype=protein_coding;locus_tag=LopeCp061
+AM777385.2	EMBL	CDS	64264	64392	.	+	0	ID=cds-CAO85995.1;Parent=gene-LopeCp061;Dbxref=GOA:A8Y9A6,InterPro:IPR002615,UniProtKB/Swiss-Prot:A8Y9A6,NCBI_GP:CAO85995.1;Name=CAO85995.1;gbkey=CDS;gene=psaJ;product=photosystem I subunit IX;protein_id=CAO85995.1;transl_table=11
+AM777385.2	EMBL	gene	64825	65025	.	+	.	ID=gene-LopeCp062;Name=rpl33;gbkey=Gene;gene=rpl33;gene_biotype=protein_coding;locus_tag=LopeCp062
+AM777385.2	EMBL	CDS	64825	65025	.	+	0	ID=cds-CAO85996.1;Parent=gene-LopeCp062;Dbxref=GOA:A8Y9A7,InterPro:IPR001705,InterPro:IPR011332,InterPro:IPR018264,UniProtKB/Swiss-Prot:A8Y9A7,NCBI_GP:CAO85996.1;Name=CAO85996.1;gbkey=CDS;gene=rpl33;product=ribosomal protein L33;protein_id=CAO85996.1;transl_table=11
+AM777385.2	EMBL	gene	65324	65794	.	+	.	ID=gene-LopeCp063;Name=rps18;gbkey=Gene;gene=rps18;gene_biotype=protein_coding;locus_tag=LopeCp063
+AM777385.2	EMBL	CDS	65324	65794	.	+	0	ID=cds-CAO85997.1;Parent=gene-LopeCp063;Dbxref=GOA:A8Y9A8,InterPro:IPR001648,InterPro:IPR018275,UniProtKB/Swiss-Prot:A8Y9A8,NCBI_GP:CAO85997.1;Name=CAO85997.1;gbkey=CDS;gene=rps18;product=ribosomal protein S18;protein_id=CAO85997.1;transl_table=11
+AM777385.2	EMBL	gene	65957	66316	.	-	.	ID=gene-LopeCp064;Name=rpl20;gbkey=Gene;gene=rpl20;gene_biotype=protein_coding;locus_tag=LopeCp064
+AM777385.2	EMBL	CDS	65957	66316	.	-	0	ID=cds-CAO85998.1;Parent=gene-LopeCp064;Dbxref=GOA:A8Y9A9,InterPro:IPR005813,UniProtKB/Swiss-Prot:A8Y9A9,NCBI_GP:CAO85998.1;Name=CAO85998.1;gbkey=CDS;gene=rpl20;product=ribosomal protein L20;protein_id=CAO85998.1;transl_table=11
+AM777385.2	EMBL	gene	67269	67919	.	-	.	ID=gene-LopeCp066;Name=clpP;gbkey=Gene;gene=clpP;gene_biotype=protein_coding;locus_tag=LopeCp066
+AM777385.2	EMBL	CDS	67269	67919	.	-	0	ID=cds-CAO86000.1;Parent=gene-LopeCp066;Dbxref=GOA:A8Y9B1,InterPro:IPR001907,InterPro:IPR018215,InterPro:IPR023562,UniProtKB/TrEMBL:A8Y9B1,NCBI_GP:CAO86000.1;Name=CAO86000.1;gbkey=CDS;gene=clpP;product=clp protease proteolytic subunit;protein_id=CAO86000.1;transl_table=11
+AM777385.2	EMBL	gene	68457	69983	.	+	.	ID=gene-LopeCp067;Name=psbB;gbkey=Gene;gene=psbB;gene_biotype=protein_coding;locus_tag=LopeCp067
+AM777385.2	EMBL	CDS	68457	69983	.	+	0	ID=cds-CAO86001.1;Parent=gene-LopeCp067;Dbxref=GOA:A8Y9B2,InterPro:IPR000932,InterPro:IPR017486,UniProtKB/Swiss-Prot:A8Y9B2,NCBI_GP:CAO86001.1;Name=CAO86001.1;gbkey=CDS;gene=psbB;product=photosystem II CP47 chlorophyll apoprotein;protein_id=CAO86001.1;transl_table=11
+AM777385.2	EMBL	gene	70152	70268	.	+	.	ID=gene-LopeCp068;Name=psbT;gbkey=Gene;gene=psbT;gene_biotype=protein_coding;locus_tag=LopeCp068
+AM777385.2	EMBL	CDS	70152	70268	.	+	0	ID=cds-CAO86002.1;Parent=gene-LopeCp068;Dbxref=GOA:A8Y9B3,InterPro:IPR001743,UniProtKB/TrEMBL:A8Y9B3,NCBI_GP:CAO86002.1;Name=CAO86002.1;gbkey=CDS;gene=psbT;product=photosystem II protein T;protein_id=CAO86002.1;transl_table=11
+AM777385.2	EMBL	gene	70317	70448	.	-	.	ID=gene-LopeCp069;Name=psbN;gbkey=Gene;gene=psbN;gene_biotype=protein_coding;locus_tag=LopeCp069
+AM777385.2	EMBL	CDS	70317	70448	.	-	0	ID=cds-CAO86003.1;Parent=gene-LopeCp069;Dbxref=GOA:A8Y9B4,InterPro:IPR003398,UniProtKB/Swiss-Prot:A8Y9B4,NCBI_GP:CAO86003.1;Name=CAO86003.1;gbkey=CDS;gene=psbN;product=photosystem II protein N;protein_id=CAO86003.1;transl_table=11
+AM777385.2	EMBL	gene	70552	70773	.	+	.	ID=gene-LopeCp070;Name=psbH;gbkey=Gene;gene=psbH;gene_biotype=protein_coding;locus_tag=LopeCp070
+AM777385.2	EMBL	CDS	70552	70773	.	+	0	ID=cds-CAO86004.1;Parent=gene-LopeCp070;Dbxref=GOA:A8Y9B5,InterPro:IPR001056,UniProtKB/TrEMBL:A8Y9B5,NCBI_GP:CAO86004.1;Name=CAO86004.1;gbkey=CDS;gene=psbH;product=photosystem II phosphoprotein;protein_id=CAO86004.1;transl_table=11
+AM777385.2	EMBL	gene	70903	70908	.	+	.	ID=gene-LopeCp071;Name=petB;gbkey=Gene;gene=petB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp071;part=1/3
+AM777385.2	EMBL	gene	70909	71654	.	+	.	ID=gene-LopeCp071;Name=petB;gbkey=Gene;gene=petB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp071;part=2/3
+AM777385.2	EMBL	gene	71655	72296	.	+	.	ID=gene-LopeCp071;Name=petB;gbkey=Gene;gene=petB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp071;part=3/3
+AM777385.2	EMBL	CDS	70903	70908	.	+	0	ID=cds-CAO86005.1;Parent=gene-LopeCp071;Dbxref=GOA:A8Y9B6,InterPro:IPR005797,InterPro:IPR016174,InterPro:IPR016175,InterPro:IPR023530,UniProtKB/TrEMBL:A8Y9B6,NCBI_GP:CAO86005.1;Name=CAO86005.1;gbkey=CDS;gene=petB;product=cytochrome b6;protein_id=CAO86005.1;transl_table=11
+AM777385.2	EMBL	CDS	71655	72296	.	+	0	ID=cds-CAO86005.1;Parent=gene-LopeCp071;Dbxref=GOA:A8Y9B6,InterPro:IPR005797,InterPro:IPR016174,InterPro:IPR016175,InterPro:IPR023530,UniProtKB/TrEMBL:A8Y9B6,NCBI_GP:CAO86005.1;Name=CAO86005.1;gbkey=CDS;gene=petB;product=cytochrome b6;protein_id=CAO86005.1;transl_table=11
+AM777385.2	EMBL	exon	70903	70908	.	+	.	ID=id-LopeCp071-1;Parent=gene-LopeCp071;exon_number=1;gbkey=exon;gene=petB;number=1
+AM777385.2	EMBL	exon	71655	72296	.	+	.	ID=id-LopeCp071-2;Parent=gene-LopeCp071;exon_number=2;gbkey=exon;gene=petB;number=2
+AM777385.2	EMBL	intron	70909	71654	.	+	.	ID=id-LopeCp071;Note=group II intron;exon_number=1;gbkey=intron;gene=petB;number=1
+AM777385.2	EMBL	gene	72487	72494	.	+	.	ID=gene-LopeCp072;Name=petD;gbkey=Gene;gene=petD;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp072;part=1/3
+AM777385.2	EMBL	gene	72495	73171	.	+	.	ID=gene-LopeCp072;Name=petD;gbkey=Gene;gene=petD;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp072;part=2/3
+AM777385.2	EMBL	gene	73172	73646	.	+	.	ID=gene-LopeCp072;Name=petD;gbkey=Gene;gene=petD;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp072;part=3/3
+AM777385.2	EMBL	CDS	72487	72494	.	+	0	ID=cds-CAO86006.1;Parent=gene-LopeCp072;Dbxref=GOA:A8Y9B7,InterPro:IPR005797,InterPro:IPR005798,InterPro:IPR005870,InterPro:IPR016175,UniProtKB/TrEMBL:A8Y9B7,NCBI_GP:CAO86006.1;Name=CAO86006.1;gbkey=CDS;gene=petD;product=cytochrome b6/f complex subunit IV;protein_id=CAO86006.1;transl_table=11
+AM777385.2	EMBL	CDS	73172	73646	.	+	1	ID=cds-CAO86006.1;Parent=gene-LopeCp072;Dbxref=GOA:A8Y9B7,InterPro:IPR005797,InterPro:IPR005798,InterPro:IPR005870,InterPro:IPR016175,UniProtKB/TrEMBL:A8Y9B7,NCBI_GP:CAO86006.1;Name=CAO86006.1;gbkey=CDS;gene=petD;product=cytochrome b6/f complex subunit IV;protein_id=CAO86006.1;transl_table=11
+AM777385.2	EMBL	exon	72487	72494	.	+	.	ID=id-LopeCp072-1;Parent=gene-LopeCp072;exon_number=1;gbkey=exon;gene=petD;number=1
+AM777385.2	EMBL	exon	73172	73646	.	+	.	ID=id-LopeCp072-2;Parent=gene-LopeCp072;exon_number=2;gbkey=exon;gene=petD;number=2
+AM777385.2	EMBL	intron	72495	73171	.	+	.	ID=id-LopeCp072;Note=group II intron;exon_number=1;gbkey=intron;gene=petD;number=1
+AM777385.2	EMBL	gene	73857	74882	.	-	.	ID=gene-LopeCp073;Name=rpoA;gbkey=Gene;gene=rpoA;gene_biotype=protein_coding;locus_tag=LopeCp073
+AM777385.2	EMBL	CDS	73857	74882	.	-	0	ID=cds-CAO86007.1;Parent=gene-LopeCp073;Dbxref=GOA:A8Y9B8,InterPro:IPR009025,InterPro:IPR011260,InterPro:IPR011261,InterPro:IPR011262,InterPro:IPR011263,InterPro:IPR011773,UniProtKB/Swiss-Prot:A8Y9B8,NCBI_GP:CAO86007.1;Name=CAO86007.1;gbkey=CDS;gene=rpoA;product=RNA polymerase alpha subunit;protein_id=CAO86007.1;transl_table=11
+AM777385.2	EMBL	gene	74947	75378	.	-	.	ID=gene-LopeCp074;Name=rps11;gbkey=Gene;gene=rps11;gene_biotype=protein_coding;locus_tag=LopeCp074
+AM777385.2	EMBL	CDS	74947	75378	.	-	0	ID=cds-CAO86008.1;Parent=gene-LopeCp074;Dbxref=GOA:A8Y9B9,InterPro:IPR001971,InterPro:IPR018102,InterPro:IPR019981,UniProtKB/Swiss-Prot:A8Y9B9,NCBI_GP:CAO86008.1;Name=CAO86008.1;gbkey=CDS;gene=rps11;product=ribosomal protein S11;protein_id=CAO86008.1;transl_table=11
+AM777385.2	EMBL	gene	75572	75685	.	-	.	ID=gene-LopeCp075;Name=rpl36;gbkey=Gene;gene=rpl36;gene_biotype=protein_coding;locus_tag=LopeCp075
+AM777385.2	EMBL	CDS	75572	75685	.	-	0	ID=cds-CAO86009.1;Parent=gene-LopeCp075;Dbxref=GOA:A8Y9C0,InterPro:IPR000473,UniProtKB/Swiss-Prot:A8Y9C0,NCBI_GP:CAO86009.1;Name=CAO86009.1;gbkey=CDS;gene=rpl36;product=ribosomal protein L36;protein_id=CAO86009.1;transl_table=11
+AM777385.2	EMBL	gene	75787	76110	.	-	.	ID=gene-LopeCp076;Name=infA;gbkey=Gene;gene=infA;gene_biotype=protein_coding;locus_tag=LopeCp076
+AM777385.2	EMBL	CDS	75787	76110	.	-	0	ID=cds-CAO86010.1;Parent=gene-LopeCp076;Dbxref=GOA:A8Y9C1,InterPro:IPR004368,InterPro:IPR006196,InterPro:IPR012340,InterPro:IPR016027,InterPro:IPR022967,UniProtKB/Swiss-Prot:A8Y9C1,NCBI_GP:CAO86010.1;Name=CAO86010.1;gbkey=CDS;gene=infA;product=translational initiation factor 1;protein_id=CAO86010.1;transl_table=11
+AM777385.2	EMBL	gene	76193	76603	.	-	.	ID=gene-LopeCp077;Name=rps8;gbkey=Gene;gene=rps8;gene_biotype=protein_coding;locus_tag=LopeCp077
+AM777385.2	EMBL	CDS	76193	76603	.	-	0	ID=cds-CAO86011.1;Parent=gene-LopeCp077;Dbxref=GOA:A8Y9C2,InterPro:IPR000630,UniProtKB/Swiss-Prot:A8Y9C2,NCBI_GP:CAO86011.1;Name=CAO86011.1;gbkey=CDS;gene=rps8;product=ribosomal protein S8;protein_id=CAO86011.1;transl_table=11
+AM777385.2	EMBL	gene	76750	77121	.	-	.	ID=gene-LopeCp078;Name=rpl14;gbkey=Gene;gene=rpl14;gene_biotype=protein_coding;locus_tag=LopeCp078
+AM777385.2	EMBL	CDS	76750	77121	.	-	0	ID=cds-CAO86012.1;Parent=gene-LopeCp078;Dbxref=GOA:A8Y9C3,InterPro:IPR000218,InterPro:IPR005745,InterPro:IPR019972,InterPro:IPR023571,UniProtKB/Swiss-Prot:A8Y9C3,NCBI_GP:CAO86012.1;Name=CAO86012.1;gbkey=CDS;gene=rpl14;product=ribosomal protein L14;protein_id=CAO86012.1;transl_table=11
+AM777385.2	EMBL	gene	78513	78521	.	-	.	ID=gene-LopeCp079;Name=rpl16;gbkey=Gene;gene=rpl16;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp079;part=1/3
+AM777385.2	EMBL	gene	77646	78512	.	-	.	ID=gene-LopeCp079;Name=rpl16;gbkey=Gene;gene=rpl16;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp079;part=2/3
+AM777385.2	EMBL	gene	77244	77645	.	-	.	ID=gene-LopeCp079;Name=rpl16;gbkey=Gene;gene=rpl16;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp079;part=3/3
+AM777385.2	EMBL	CDS	78513	78521	.	-	0	ID=cds-CAO86013.1;Parent=gene-LopeCp079;Dbxref=GOA:A8Y9C4,InterPro:IPR000114,InterPro:IPR016180,InterPro:IPR020798,UniProtKB/Swiss-Prot:A8Y9C4,NCBI_GP:CAO86013.1;Name=CAO86013.1;gbkey=CDS;gene=rpl16;product=ribosomal protein L16;protein_id=CAO86013.1;transl_table=11
+AM777385.2	EMBL	CDS	77244	77645	.	-	0	ID=cds-CAO86013.1;Parent=gene-LopeCp079;Dbxref=GOA:A8Y9C4,InterPro:IPR000114,InterPro:IPR016180,InterPro:IPR020798,UniProtKB/Swiss-Prot:A8Y9C4,NCBI_GP:CAO86013.1;Name=CAO86013.1;gbkey=CDS;gene=rpl16;product=ribosomal protein L16;protein_id=CAO86013.1;transl_table=11
+AM777385.2	EMBL	exon	77244	77645	.	-	.	ID=id-LopeCp079-2;Parent=gene-LopeCp079;exon_number=2;gbkey=exon;gene=rpl16;number=2
+AM777385.2	EMBL	exon	78513	78521	.	-	.	ID=id-LopeCp079-1;Parent=gene-LopeCp079;exon_number=1;gbkey=exon;gene=rpl16;number=1
+AM777385.2	EMBL	intron	77646	78512	.	-	.	ID=id-LopeCp079;Note=group II intron;exon_number=1;gbkey=intron;gene=rpl16;number=1
+AM777385.2	EMBL	gene	78687	79406	.	-	.	ID=gene-LopeCp080;Name=rps3;gbkey=Gene;gene=rps3;gene_biotype=protein_coding;locus_tag=LopeCp080
+AM777385.2	EMBL	CDS	78687	79406	.	-	0	ID=cds-CAO86014.1;Parent=gene-LopeCp080;Dbxref=GOA:A8Y9C5,InterPro:IPR001351,InterPro:IPR005704,InterPro:IPR008282,InterPro:IPR009019,InterPro:IPR015946,InterPro:IPR018280,UniProtKB/Swiss-Prot:A8Y9C5,NCBI_GP:CAO86014.1;Name=CAO86014.1;gbkey=CDS;gene=rps3;product=ribosomal protein S3;protein_id=CAO86014.1;transl_table=11
+AM777385.2	EMBL	gene	79479	79922	.	-	.	ID=gene-LopeCp081;Name=rpl22;gbkey=Gene;gene=rpl22;gene_biotype=protein_coding;locus_tag=LopeCp081
+AM777385.2	EMBL	CDS	79479	79922	.	-	0	ID=cds-CAO86015.1;Parent=gene-LopeCp081;Dbxref=GOA:A8Y9C6,InterPro:IPR001063,InterPro:IPR005727,InterPro:IPR018260,UniProtKB/Swiss-Prot:A8Y9C6,NCBI_GP:CAO86015.1;Name=CAO86015.1;gbkey=CDS;gene=rpl22;product=ribosomal protein L22;protein_id=CAO86015.1;transl_table=11
+AM777385.2	EMBL	INVERTED	80001	101409	.	+	.	ID=id-AM777385.2:80001..101409;Note=repeat region B;gbkey=repeat_region;rpt_type=INVERTED
+AM777385.2	EMBL	gene	80001	80282	.	-	.	ID=gene-LopeCp082;Name=rps19;gbkey=Gene;gene=rps19;gene_biotype=protein_coding;locus_tag=LopeCp082
+AM777385.2	EMBL	CDS	80001	80282	.	-	0	ID=cds-CAO86016.1;Parent=gene-LopeCp082;Dbxref=GOA:A8Y9C7,InterPro:IPR002222,InterPro:IPR005732,InterPro:IPR020934,InterPro:IPR023575,UniProtKB/Swiss-Prot:A8Y9C7,NCBI_GP:CAO86016.1;Name=CAO86016.1;gbkey=CDS;gene=rps19;product=ribosomal protein S19;protein_id=CAO86016.1;transl_table=11
+AM777385.2	EMBL	gene	80419	80492	.	+	.	ID=gene-LopeCp083;Name=trnH-GUG;gbkey=Gene;gene=trnH-GUG;gene_biotype=tRNA;locus_tag=LopeCp083
+AM777385.2	EMBL	tRNA	80419	80492	.	+	.	ID=id-LopeCp083;Parent=gene-LopeCp083;gbkey=tRNA;gene=trnH-GUG;product=tRNA-His
+AM777385.2	EMBL	exon	80419	80492	.	+	.	ID=exon-id-LopeCp083-1;Parent=id-LopeCp083;gbkey=tRNA;gene=trnH-GUG;product=tRNA-His
+AM777385.2	EMBL	gene	81641	82031	.	-	.	ID=gene-LopeCp084;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp084;part=1/3
+AM777385.2	EMBL	gene	80978	81640	.	-	.	ID=gene-LopeCp084;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp084;part=2/3
+AM777385.2	EMBL	gene	80547	80977	.	-	.	ID=gene-LopeCp084;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp084;part=3/3
+AM777385.2	EMBL	CDS	81641	82031	.	-	0	ID=cds-CAO86017.1;Parent=gene-LopeCp084;Dbxref=GOA:A8Y9C8,InterPro:IPR002171,InterPro:IPR005880,InterPro:IPR008991,InterPro:IPR012340,InterPro:IPR014722,InterPro:IPR014726,InterPro:IPR016027,InterPro:IPR022666,InterPro:IPR022669,InterPro:IPR022671,UniProtKB/Swiss-Prot:A8Y9C8,NCBI_GP:CAO86017.1;Name=CAO86017.1;gbkey=CDS;gene=rpl2;product=ribosomal protein L2;protein_id=CAO86017.1;transl_except=(pos:complement(82029..82031)%2Caa:Met);transl_table=11
+AM777385.2	EMBL	CDS	80547	80977	.	-	2	ID=cds-CAO86017.1;Parent=gene-LopeCp084;Dbxref=GOA:A8Y9C8,InterPro:IPR002171,InterPro:IPR005880,InterPro:IPR008991,InterPro:IPR012340,InterPro:IPR014722,InterPro:IPR014726,InterPro:IPR016027,InterPro:IPR022666,InterPro:IPR022669,InterPro:IPR022671,UniProtKB/Swiss-Prot:A8Y9C8,NCBI_GP:CAO86017.1;Name=CAO86017.1;gbkey=CDS;gene=rpl2;product=ribosomal protein L2;protein_id=CAO86017.1;transl_except=(pos:complement(82029..82031)%2Caa:Met);transl_table=11
+AM777385.2	EMBL	exon	80547	80977	.	-	.	ID=id-LopeCp084-2;Parent=gene-LopeCp084;exon_number=2;gbkey=exon;gene=rpl2;number=2
+AM777385.2	EMBL	exon	81641	82031	.	-	.	ID=id-LopeCp084-1;Parent=gene-LopeCp084;exon_number=1;gbkey=exon;gene=rpl2;number=1
+AM777385.2	EMBL	intron	80978	81640	.	-	.	ID=id-LopeCp084;Note=group II intron;exon_number=1;gbkey=intron;gene=rpl2;number=1
+AM777385.2	EMBL	gene	82050	82331	.	-	.	ID=gene-LopeCp085;Name=rpl23;gbkey=Gene;gene=rpl23;gene_biotype=protein_coding;locus_tag=LopeCp085
+AM777385.2	EMBL	CDS	82050	82331	.	-	0	ID=cds-CAO86018.1;Parent=gene-LopeCp085;Dbxref=GOA:A8Y9C9,InterPro:IPR001014,InterPro:IPR012677,InterPro:IPR012678,InterPro:IPR013025,UniProtKB/TrEMBL:A8Y9C9,NCBI_GP:CAO86018.1;Name=CAO86018.1;gbkey=CDS;gene=rpl23;product=ribosomal protein L23;protein_id=CAO86018.1;transl_table=11
+AM777385.2	EMBL	gene	82506	82579	.	-	.	ID=gene-LopeCp086;Name=trnI-CAU;gbkey=Gene;gene=trnI-CAU;gene_biotype=tRNA;locus_tag=LopeCp086
+AM777385.2	EMBL	tRNA	82506	82579	.	-	.	ID=id-LopeCp086;Parent=gene-LopeCp086;gbkey=tRNA;gene=trnI-CAU;product=tRNA-Ile
+AM777385.2	EMBL	exon	82506	82579	.	-	.	ID=exon-id-LopeCp086-1;Parent=id-LopeCp086;gbkey=tRNA;gene=trnI-CAU;product=tRNA-Ile
+AM777385.2	EMBL	gene	85031	85111	.	-	.	ID=gene-LopeCp087;Name=trnL-CAA;gbkey=Gene;gene=trnL-CAA;gene_biotype=tRNA;locus_tag=LopeCp087
+AM777385.2	EMBL	tRNA	85031	85111	.	-	.	ID=id-LopeCp087;Parent=gene-LopeCp087;gbkey=tRNA;gene=trnL-CAA;product=tRNA-Leu
+AM777385.2	EMBL	exon	85031	85111	.	-	.	ID=exon-id-LopeCp087-1;Parent=id-LopeCp087;gbkey=tRNA;gene=trnL-CAA;product=tRNA-Leu
+AM777385.2	EMBL	gene	87115	87891	.	-	.	ID=gene-LopeCp088;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp088;part=1/3
+AM777385.2	EMBL	gene	86400	87114	.	-	.	ID=gene-LopeCp088;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp088;part=2/3
+AM777385.2	EMBL	gene	85644	86399	.	-	.	ID=gene-LopeCp088;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp088;part=3/3
+AM777385.2	EMBL	CDS	87115	87891	.	-	0	ID=cds-CAO86019.1;Parent=gene-LopeCp088;Dbxref=GOA:P0CC86,InterPro:IPR001750,InterPro:IPR010096,UniProtKB/Swiss-Prot:P0CC86,NCBI_GP:CAO86019.1;Name=CAO86019.1;gbkey=CDS;gene=ndhB;product=NADH-plastoquinone oxidoreductase subunit 2;protein_id=CAO86019.1;transl_table=11
+AM777385.2	EMBL	CDS	85644	86399	.	-	0	ID=cds-CAO86019.1;Parent=gene-LopeCp088;Dbxref=GOA:P0CC86,InterPro:IPR001750,InterPro:IPR010096,UniProtKB/Swiss-Prot:P0CC86,NCBI_GP:CAO86019.1;Name=CAO86019.1;gbkey=CDS;gene=ndhB;product=NADH-plastoquinone oxidoreductase subunit 2;protein_id=CAO86019.1;transl_table=11
+AM777385.2	EMBL	exon	85644	86399	.	-	.	ID=id-LopeCp088-2;Parent=gene-LopeCp088;exon_number=2;gbkey=exon;gene=ndhB;number=2
+AM777385.2	EMBL	exon	87115	87891	.	-	.	ID=id-LopeCp088-1;Parent=gene-LopeCp088;exon_number=1;gbkey=exon;gene=ndhB;number=1
+AM777385.2	EMBL	intron	86400	87114	.	-	.	ID=id-LopeCp088;Note=group II intron;exon_number=1;gbkey=intron;gene=ndhB;number=1
+AM777385.2	EMBL	gene	88191	88661	.	-	.	ID=gene-LopeCp089;Name=rps7;gbkey=Gene;gene=rps7;gene_biotype=protein_coding;locus_tag=LopeCp089
+AM777385.2	EMBL	CDS	88191	88661	.	-	0	ID=cds-CAO86020.1;Parent=gene-LopeCp089;Dbxref=GOA:A8Y9D1,InterPro:IPR000235,InterPro:IPR005717,InterPro:IPR020606,InterPro:IPR023798,UniProtKB/Swiss-Prot:A8Y9D1,NCBI_GP:CAO86020.1;Name=CAO86020.1;gbkey=CDS;gene=rps7;product=ribosomal protein S7;protein_id=CAO86020.1;transl_table=11
+AM777385.2	EMBL	gene	67014	67127	.	-	.	ID=gene-LopeCp065;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp065;part=1/4
+AM777385.2	EMBL	gene	89284	89515	.	-	.	ID=gene-LopeCp065;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp065;part=2/4
+AM777385.2	EMBL	gene	88744	89283	.	-	.	ID=gene-LopeCp065;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp065;part=3/4
+AM777385.2	EMBL	gene	88715	88743	.	-	.	ID=gene-LopeCp065;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp065;part=4/4
+AM777385.2	EMBL	CDS	67014	67127	.	-	0	ID=cds-CAO85999.1;Parent=gene-LopeCp065;Dbxref=GOA:A8Y9B0,InterPro:IPR005679,InterPro:IPR006032,InterPro:IPR012340,InterPro:IPR016027,UniProtKB/TrEMBL:A8Y9B0,NCBI_GP:CAO85999.1;Name=CAO85999.1;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=CAO85999.1;transl_table=11
+AM777385.2	EMBL	CDS	89284	89515	.	-	0	ID=cds-CAO85999.1;Parent=gene-LopeCp065;Dbxref=GOA:A8Y9B0,InterPro:IPR005679,InterPro:IPR006032,InterPro:IPR012340,InterPro:IPR016027,UniProtKB/TrEMBL:A8Y9B0,NCBI_GP:CAO85999.1;Name=CAO85999.1;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=CAO85999.1;transl_table=11
+AM777385.2	EMBL	CDS	88715	88743	.	-	2	ID=cds-CAO85999.1;Parent=gene-LopeCp065;Dbxref=GOA:A8Y9B0,InterPro:IPR005679,InterPro:IPR006032,InterPro:IPR012340,InterPro:IPR016027,UniProtKB/TrEMBL:A8Y9B0,NCBI_GP:CAO85999.1;Name=CAO85999.1;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=CAO85999.1;transl_table=11
+AM777385.2	EMBL	exon	67014	67127	.	-	.	ID=id-LopeCp065-1;Parent=gene-LopeCp065;exon_number=1;gbkey=exon;gene=rps12;number=1
+AM777385.2	EMBL	exon	88715	88743	.	-	.	ID=id-LopeCp065-3;Parent=gene-LopeCp065;exon_number=3;gbkey=exon;gene=rps12;number=3
+AM777385.2	EMBL	exon	89284	89515	.	-	.	ID=id-LopeCp065-2;Parent=gene-LopeCp065;exon_number=2;gbkey=exon;gene=rps12;number=2
+AM777385.2	EMBL	intron	88744	89283	.	-	.	ID=id-LopeCp065;Note=group II intron;exon_number=2;gbkey=intron;gene=rps12;number=2
+AM777385.2	EMBL	gene	91161	91232	.	+	.	ID=gene-LopeCp091;Name=trnV-GAC;gbkey=Gene;gene=trnV-GAC;gene_biotype=tRNA;locus_tag=LopeCp091
+AM777385.2	EMBL	tRNA	91161	91232	.	+	.	ID=id-LopeCp091;Parent=gene-LopeCp091;gbkey=tRNA;gene=trnV-GAC;product=tRNA-Val
+AM777385.2	EMBL	exon	91161	91232	.	+	.	ID=exon-id-LopeCp091-1;Parent=id-LopeCp091;gbkey=tRNA;gene=trnV-GAC;product=tRNA-Val
+AM777385.2	EMBL	gene	91462	92953	.	+	.	ID=gene-LopeCp092;Name=rrn16;gbkey=Gene;gene=rrn16;gene_biotype=rRNA;locus_tag=LopeCp092
+AM777385.2	EMBL	rRNA	91462	92953	.	+	.	ID=id-LopeCp092;Parent=gene-LopeCp092;gbkey=rRNA;gene=rrn16;product=16S ribosomal RNA
+AM777385.2	EMBL	exon	91462	92953	.	+	.	ID=exon-id-LopeCp092-1;Parent=id-LopeCp092;gbkey=rRNA;gene=rrn16;product=16S ribosomal RNA
+AM777385.2	EMBL	gene	93269	93305	.	+	.	ID=gene-LopeCp093;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp093;part=1/2
+AM777385.2	EMBL	gene	94113	94147	.	+	.	ID=gene-LopeCp093;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp093;part=2/2
+AM777385.2	EMBL	tRNA	93269	94147	.	+	.	ID=id-LopeCp093;Parent=gene-LopeCp093;gbkey=tRNA;gene=trnI-GAU;product=tRNA-Ile
+AM777385.2	EMBL	exon	93269	93305	.	+	.	ID=exon-id-LopeCp093-1;Parent=id-LopeCp093;gbkey=tRNA;gene=trnI-GAU;product=tRNA-Ile
+AM777385.2	EMBL	exon	94113	94147	.	+	.	ID=exon-id-LopeCp093-2;Parent=id-LopeCp093;gbkey=tRNA;gene=trnI-GAU;product=tRNA-Ile
+AM777385.2	EMBL	exon	93269	93305	.	+	.	ID=id-LopeCp093-1;Parent=gene-LopeCp093;exon_number=1;gbkey=exon;gene=trnI-GAU;number=1
+AM777385.2	EMBL	exon	94113	94147	.	+	.	ID=id-LopeCp093-2;Parent=gene-LopeCp093;exon_number=2;gbkey=exon;gene=trnI-GAU;number=2
+AM777385.2	EMBL	gene	93269	93305	.	+	.	ID=gene-LopeCp093-2;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=other;is_ordered=true;locus_tag=LopeCp093;part=1/3
+AM777385.2	EMBL	gene	93306	94112	.	+	.	ID=gene-LopeCp093-2;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=other;is_ordered=true;locus_tag=LopeCp093;part=2/3
+AM777385.2	EMBL	gene	94113	94147	.	+	.	ID=gene-LopeCp093-2;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=other;is_ordered=true;locus_tag=LopeCp093;part=3/3
+AM777385.2	EMBL	intron	93306	94112	.	+	.	ID=id-LopeCp093-3;Note=group II intron;exon_number=1;gbkey=intron;gene=trnI-GAU;number=1
+AM777385.2	EMBL	gene	94213	94250	.	+	.	ID=gene-LopeCp094;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp094;part=1/3
+AM777385.2	EMBL	gene	94251	95061	.	+	.	ID=gene-LopeCp094;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp094;part=2/3
+AM777385.2	EMBL	gene	95062	95096	.	+	.	ID=gene-LopeCp094;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp094;part=3/3
+AM777385.2	EMBL	intron	94251	95061	.	+	.	ID=id-LopeCp094;Note=group II intron;exon_number=1;gbkey=intron;gene=trnA-UGC;number=1
+AM777385.2	EMBL	gene	94213	94250	.	+	.	ID=gene-LopeCp094-2;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp094;part=1/2
+AM777385.2	EMBL	gene	95062	95096	.	+	.	ID=gene-LopeCp094-2;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp094;part=2/2
+AM777385.2	EMBL	tRNA	94213	95096	.	+	.	ID=id-LopeCp094-2;Parent=gene-LopeCp094-2;gbkey=tRNA;gene=trnA-UGC;product=tRNA-Ala
+AM777385.2	EMBL	exon	94213	94250	.	+	.	ID=exon-id-LopeCp094-2-1;Parent=id-LopeCp094-2;gbkey=tRNA;gene=trnA-UGC;product=tRNA-Ala
+AM777385.2	EMBL	exon	95062	95096	.	+	.	ID=exon-id-LopeCp094-2-2;Parent=id-LopeCp094-2;gbkey=tRNA;gene=trnA-UGC;product=tRNA-Ala
+AM777385.2	EMBL	exon	94213	94250	.	+	.	ID=id-LopeCp094-1;Parent=gene-LopeCp094-2;exon_number=1;gbkey=exon;gene=trnA-UGC;number=1
+AM777385.2	EMBL	exon	95062	95096	.	+	.	ID=id-LopeCp094-2-2;Parent=gene-LopeCp094-2;exon_number=2;gbkey=exon;gene=trnA-UGC;number=2
+AM777385.2	EMBL	gene	95242	98129	.	+	.	ID=gene-LopeCp095;Name=rrn23;gbkey=Gene;gene=rrn23;gene_biotype=rRNA;locus_tag=LopeCp095
+AM777385.2	EMBL	rRNA	95242	98129	.	+	.	ID=id-LopeCp095;Parent=gene-LopeCp095;gbkey=rRNA;gene=rrn23;product=23S ribosomal RNA
+AM777385.2	EMBL	exon	95242	98129	.	+	.	ID=exon-id-LopeCp095-1;Parent=id-LopeCp095;gbkey=rRNA;gene=rrn23;product=23S ribosomal RNA
+AM777385.2	EMBL	gene	98226	98320	.	+	.	ID=gene-LopeCp096;Name=rrn4.5;gbkey=Gene;gene=rrn4.5;gene_biotype=rRNA;locus_tag=LopeCp096
+AM777385.2	EMBL	rRNA	98226	98320	.	+	.	ID=id-LopeCp096;Parent=gene-LopeCp096;gbkey=rRNA;gene=rrn4.5;product=4.5S ribosomal RNA
+AM777385.2	EMBL	exon	98226	98320	.	+	.	ID=exon-id-LopeCp096-1;Parent=id-LopeCp096;gbkey=rRNA;gene=rrn4.5;product=4.5S ribosomal RNA
+AM777385.2	EMBL	gene	98548	98668	.	+	.	ID=gene-LopeCp097;Name=rrn5;gbkey=Gene;gene=rrn5;gene_biotype=rRNA;locus_tag=LopeCp097
+AM777385.2	EMBL	rRNA	98548	98668	.	+	.	ID=id-LopeCp097;Parent=gene-LopeCp097;gbkey=rRNA;gene=rrn5;product=5S ribosomal RNA
+AM777385.2	EMBL	exon	98548	98668	.	+	.	ID=exon-id-LopeCp097-1;Parent=id-LopeCp097;gbkey=rRNA;gene=rrn5;product=5S ribosomal RNA
+AM777385.2	EMBL	gene	98897	98970	.	+	.	ID=gene-LopeCp098;Name=trnR-ACG;gbkey=Gene;gene=trnR-ACG;gene_biotype=tRNA;locus_tag=LopeCp098
+AM777385.2	EMBL	tRNA	98897	98970	.	+	.	ID=id-LopeCp098;Parent=gene-LopeCp098;gbkey=tRNA;gene=trnR-ACG;product=tRNA-Arg
+AM777385.2	EMBL	exon	98897	98970	.	+	.	ID=exon-id-LopeCp098-1;Parent=id-LopeCp098;gbkey=tRNA;gene=trnR-ACG;product=tRNA-Arg
+AM777385.2	EMBL	gene	99223	99295	.	-	.	ID=gene-LopeCp099;Name=trnN-GUU;gbkey=Gene;gene=trnN-GUU;gene_biotype=tRNA;locus_tag=LopeCp099
+AM777385.2	EMBL	tRNA	99223	99295	.	-	.	ID=id-LopeCp099;Parent=gene-LopeCp099;gbkey=tRNA;gene=trnN-GUU;product=tRNA-Asn
+AM777385.2	EMBL	exon	99223	99295	.	-	.	ID=exon-id-LopeCp099-1;Parent=id-LopeCp099;gbkey=tRNA;gene=trnN-GUU;product=tRNA-Asn
+AM777385.2	EMBL	gene	100835	101107	.	+	.	ID=gene-LopeCp100;Name=rps15;gbkey=Gene;gene=rps15;gene_biotype=protein_coding;locus_tag=LopeCp100
+AM777385.2	EMBL	CDS	100835	101107	.	+	0	ID=cds-CAO86021.1;Parent=gene-LopeCp100;Dbxref=GOA:A8Y9D2,InterPro:IPR000589,InterPro:IPR005290,InterPro:IPR009068,UniProtKB/Swiss-Prot:A8Y9D2,NCBI_GP:CAO86021.1;Name=CAO86021.1;gbkey=CDS;gene=rps15;product=ribosomal protein S15;protein_id=CAO86021.1;transl_table=11
+AM777385.2	EMBL	gene	101237	101416	.	+	.	ID=gene-LopeCp101;Name=ndhH;gbkey=Gene;gene=ndhH;gene_biotype=protein_coding;locus_tag=LopeCp101
+AM777385.2	EMBL	CDS	101237	101416	.	+	0	ID=cds-CAO86022.1;Parent=gene-LopeCp101;Dbxref=GOA:A8Y9D3,UniProtKB/TrEMBL:A8Y9D3,NCBI_GP:CAO86022.1;Name=CAO86022.1;gbkey=CDS;gene=ndhH;product=NADH-plastoquinone oxidoreductase subunit 7;protein_id=CAO86022.1;transl_table=11
+AM777385.2	EMBL	gene	101511	103736	.	-	.	ID=gene-LopeCp102;Name=ndhF;gbkey=Gene;gene=ndhF;gene_biotype=protein_coding;locus_tag=LopeCp102
+AM777385.2	EMBL	CDS	101511	103736	.	-	0	ID=cds-CAO86023.1;Parent=gene-LopeCp102;Dbxref=GOA:A8Y9D4,InterPro:IPR001516,InterPro:IPR001750,InterPro:IPR002128,InterPro:IPR003945,InterPro:IPR018393,UniProtKB/Swiss-Prot:A8Y9D4,NCBI_GP:CAO86023.1;Name=CAO86023.1;gbkey=CDS;gene=ndhF;product=NADH-plastoquinone oxidoreductase subunit 5;protein_id=CAO86023.1;transl_table=11
+AM777385.2	EMBL	gene	104439	104618	.	+	.	ID=gene-LopeCp103;Name=rpl32;gbkey=Gene;gene=rpl32;gene_biotype=protein_coding;locus_tag=LopeCp103
+AM777385.2	EMBL	CDS	104439	104618	.	+	0	ID=cds-CAO86024.1;Parent=gene-LopeCp103;Dbxref=GOA:A8Y9D5,InterPro:IPR002677,UniProtKB/TrEMBL:A8Y9D5,NCBI_GP:CAO86024.1;Name=CAO86024.1;gbkey=CDS;gene=rpl32;product=ribosomal protein L32;protein_id=CAO86024.1;transl_table=11
+AM777385.2	EMBL	gene	105281	105360	.	+	.	ID=gene-LopeCp104;Name=trnL-UAG;gbkey=Gene;gene=trnL-UAG;gene_biotype=tRNA;locus_tag=LopeCp104
+AM777385.2	EMBL	tRNA	105281	105360	.	+	.	ID=id-LopeCp104;Parent=gene-LopeCp104;gbkey=tRNA;gene=trnL-UAG;product=tRNA-Leu
+AM777385.2	EMBL	exon	105281	105360	.	+	.	ID=exon-id-LopeCp104-1;Parent=id-LopeCp104;gbkey=tRNA;gene=trnL-UAG;product=tRNA-Leu
+AM777385.2	EMBL	gene	105438	106397	.	+	.	ID=gene-LopeCp105;Name=ccsA;gbkey=Gene;gene=ccsA;gene_biotype=protein_coding;locus_tag=LopeCp105
+AM777385.2	EMBL	CDS	105438	106397	.	+	0	ID=cds-CAO86025.1;Parent=gene-LopeCp105;Dbxref=GOA:A8Y9D6,InterPro:IPR002541,InterPro:IPR017562,UniProtKB/Swiss-Prot:A8Y9D6,NCBI_GP:CAO86025.1;Name=CAO86025.1;gbkey=CDS;gene=ccsA;product=cytochrome c heme attachment protein;protein_id=CAO86025.1;transl_table=11
+AM777385.2	EMBL	gene	106540	108048	.	-	.	ID=gene-LopeCp106;Name=ndhD;gbkey=Gene;gene=ndhD;gene_biotype=protein_coding;locus_tag=LopeCp106
+AM777385.2	EMBL	CDS	106540	108048	.	-	0	ID=cds-CAO86026.1;Parent=gene-LopeCp106;Dbxref=GOA:A8Y9D7,InterPro:IPR001750,InterPro:IPR003918,InterPro:IPR010227,InterPro:IPR022997,UniProtKB/Swiss-Prot:A8Y9D7,NCBI_GP:CAO86026.1;Name=CAO86026.1;gbkey=CDS;gene=ndhD;product=NADH-plastoquinone oxidoreductase subunit 4;protein_id=CAO86026.1;transl_table=11
+AM777385.2	EMBL	gene	108168	108413	.	-	.	ID=gene-LopeCp107;Name=psaC;gbkey=Gene;gene=psaC;gene_biotype=protein_coding;locus_tag=LopeCp107
+AM777385.2	EMBL	CDS	108168	108413	.	-	0	ID=cds-CAO86027.1;Parent=gene-LopeCp107;Dbxref=GOA:A8Y9D8,InterPro:IPR001450,InterPro:IPR017491,InterPro:IPR017896,InterPro:IPR017900,UniProtKB/Swiss-Prot:A8Y9D8,NCBI_GP:CAO86027.1;Name=CAO86027.1;gbkey=CDS;gene=psaC;product=photosystem I subunit VII;protein_id=CAO86027.1;transl_table=11
+AM777385.2	EMBL	gene	108922	109227	.	-	.	ID=gene-LopeCp108;Name=ndhE;gbkey=Gene;gene=ndhE;gene_biotype=protein_coding;locus_tag=LopeCp108
+AM777385.2	EMBL	CDS	108922	109227	.	-	0	ID=cds-CAO86028.1;Parent=gene-LopeCp108;Dbxref=GOA:A8Y9D9,InterPro:IPR001133,UniProtKB/Swiss-Prot:A8Y9D9,NCBI_GP:CAO86028.1;Name=CAO86028.1;gbkey=CDS;gene=ndhE;product=NADH-plastoquinone oxidoreductase subunit 4L;protein_id=CAO86028.1;transl_table=11
+AM777385.2	EMBL	gene	109440	109970	.	-	.	ID=gene-LopeCp109;Name=ndhG;gbkey=Gene;gene=ndhG;gene_biotype=protein_coding;locus_tag=LopeCp109
+AM777385.2	EMBL	CDS	109440	109970	.	-	0	ID=cds-CAO86029.1;Parent=gene-LopeCp109;Dbxref=GOA:A8Y9E0,InterPro:IPR001457,UniProtKB/Swiss-Prot:A8Y9E0,NCBI_GP:CAO86029.1;Name=CAO86029.1;gbkey=CDS;gene=ndhG;product=NADH-plastoquinone oxidoreductase subunit 6;protein_id=CAO86029.1;transl_table=11
+AM777385.2	EMBL	gene	110086	110628	.	-	.	ID=gene-LopeCp110;Name=ndhI;gbkey=Gene;gene=ndhI;gene_biotype=protein_coding;locus_tag=LopeCp110
+AM777385.2	EMBL	CDS	110086	110628	.	-	0	ID=cds-CAO86030.1;Parent=gene-LopeCp110;Dbxref=GOA:A8Y9E1,InterPro:IPR001450,InterPro:IPR004497,InterPro:IPR010226,InterPro:IPR012285,InterPro:IPR017896,InterPro:IPR017900,UniProtKB/TrEMBL:A8Y9E1,NCBI_GP:CAO86030.1;Name=CAO86030.1;gbkey=CDS;gene=ndhI;product=NADH-plastoquinone oxidoreductase subunit I;protein_id=CAO86030.1;transl_table=11
+AM777385.2	EMBL	gene	110724	112827	.	-	.	ID=gene-LopeCp111;Name=ndhA;gbkey=Gene;gene=ndhA;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp111;part=1/4
+AM777385.2	EMBL	gene	110724	111262	.	-	.	ID=gene-LopeCp111;Name=ndhA;gbkey=Gene;gene=ndhA;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp111;part=2/4
+AM777385.2	EMBL	gene	112278	112827	.	-	.	ID=gene-LopeCp111;Name=ndhA;gbkey=Gene;gene=ndhA;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp111;part=3/4
+AM777385.2	EMBL	gene	111263	112277	.	-	.	ID=gene-LopeCp111;Name=ndhA;gbkey=Gene;gene=ndhA;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp111;part=4/4
+AM777385.2	EMBL	CDS	112278	112827	.	-	0	ID=cds-CAO86031.1;Parent=gene-LopeCp111;Dbxref=GOA:A8Y9E2,InterPro:IPR001694,InterPro:IPR018086,UniProtKB/TrEMBL:A8Y9E2,NCBI_GP:CAO86031.1;Name=CAO86031.1;gbkey=CDS;gene=ndhA;product=NADH-plastoquinone oxidoreductase subunit 1;protein_id=CAO86031.1;transl_table=11
+AM777385.2	EMBL	CDS	110724	111262	.	-	2	ID=cds-CAO86031.1;Parent=gene-LopeCp111;Dbxref=GOA:A8Y9E2,InterPro:IPR001694,InterPro:IPR018086,UniProtKB/TrEMBL:A8Y9E2,NCBI_GP:CAO86031.1;Name=CAO86031.1;gbkey=CDS;gene=ndhA;product=NADH-plastoquinone oxidoreductase subunit 1;protein_id=CAO86031.1;transl_table=11
+AM777385.2	EMBL	exon	110724	111262	.	-	.	ID=id-LopeCp111-2;Parent=gene-LopeCp111;exon_number=2;gbkey=exon;gene=ndhA;number=2
+AM777385.2	EMBL	exon	112278	112827	.	-	.	ID=id-LopeCp111-1;Parent=gene-LopeCp111;exon_number=1;gbkey=exon;gene=ndhA;number=1
+AM777385.2	EMBL	intron	111263	112277	.	-	.	ID=id-LopeCp111;exon_number=1;gbkey=intron;gene=ndhA;number=1
+AM777385.2	EMBL	gene	112829	114010	.	-	.	ID=gene-LopeCp112;Name=ndhH;gbkey=Gene;gene=ndhH;gene_biotype=protein_coding;locus_tag=LopeCp112
+AM777385.2	EMBL	CDS	112829	114010	.	-	0	ID=cds-CAO86032.1;Parent=gene-LopeCp112;Dbxref=GOA:A8Y9E3,InterPro:IPR001135,InterPro:IPR014029,InterPro:IPR022885,UniProtKB/Swiss-Prot:A8Y9E3,NCBI_GP:CAO86032.1;Name=CAO86032.1;gbkey=CDS;gene=ndhH;product=NADH-plastoquinone oxidoreductase subunit 7;protein_id=CAO86032.1;transl_table=11
+AM777385.2	EMBL	INVERTED	113838	135246	.	+	.	ID=id-AM777385.2:113838..135246;Note=repeat region A;gbkey=repeat_region;rpt_type=INVERTED
+AM777385.2	EMBL	gene	114140	114412	.	-	.	ID=gene-LopeCp113;Name=rps15;gbkey=Gene;gene=rps15;gene_biotype=protein_coding;locus_tag=LopeCp113
+AM777385.2	EMBL	CDS	114140	114412	.	-	0	ID=cds-CAO86033.1;Parent=gene-LopeCp113;Dbxref=GOA:A8Y9D2,InterPro:IPR000589,InterPro:IPR005290,InterPro:IPR009068,UniProtKB/Swiss-Prot:A8Y9D2,NCBI_GP:CAO86033.1;Name=CAO86033.1;gbkey=CDS;gene=rps15;product=ribosomal protein S15;protein_id=CAO86033.1;transl_table=11
+AM777385.2	EMBL	gene	115952	116023	.	+	.	ID=gene-LopeCp114;Name=trnN-GUU;gbkey=Gene;gene=trnN-GUU;gene_biotype=tRNA;locus_tag=LopeCp114
+AM777385.2	EMBL	tRNA	115952	116023	.	+	.	ID=id-LopeCp114;Parent=gene-LopeCp114;gbkey=tRNA;gene=trnN-GUU;product=tRNA-Asn
+AM777385.2	EMBL	exon	115952	116023	.	+	.	ID=exon-id-LopeCp114-1;Parent=id-LopeCp114;gbkey=tRNA;gene=trnN-GUU;product=tRNA-Asn
+AM777385.2	EMBL	gene	116277	116350	.	-	.	ID=gene-LopeCp115;Name=trnR-ACG;gbkey=Gene;gene=trnR-ACG;gene_biotype=tRNA;locus_tag=LopeCp115
+AM777385.2	EMBL	tRNA	116277	116350	.	-	.	ID=id-LopeCp115;Parent=gene-LopeCp115;gbkey=tRNA;gene=trnR-ACG;product=tRNA-Arg
+AM777385.2	EMBL	exon	116277	116350	.	-	.	ID=exon-id-LopeCp115-1;Parent=id-LopeCp115;gbkey=tRNA;gene=trnR-ACG;product=tRNA-Arg
+AM777385.2	EMBL	gene	116579	116699	.	-	.	ID=gene-LopeCp116;Name=rrn5;gbkey=Gene;gene=rrn5;gene_biotype=rRNA;locus_tag=LopeCp116
+AM777385.2	EMBL	rRNA	116579	116699	.	-	.	ID=id-LopeCp116;Parent=gene-LopeCp116;gbkey=rRNA;gene=rrn5;product=5S ribosomal RNA
+AM777385.2	EMBL	exon	116579	116699	.	-	.	ID=exon-id-LopeCp116-1;Parent=id-LopeCp116;gbkey=rRNA;gene=rrn5;product=5S ribosomal RNA
+AM777385.2	EMBL	gene	116927	117021	.	-	.	ID=gene-LopeCp117;Name=rrn4.5;gbkey=Gene;gene=rrn4.5;gene_biotype=rRNA;locus_tag=LopeCp117
+AM777385.2	EMBL	rRNA	116927	117021	.	-	.	ID=id-LopeCp117;Parent=gene-LopeCp117;gbkey=rRNA;gene=rrn4.5;product=4.5S ribosomal RNA
+AM777385.2	EMBL	exon	116927	117021	.	-	.	ID=exon-id-LopeCp117-1;Parent=id-LopeCp117;gbkey=rRNA;gene=rrn4.5;product=4.5S ribosomal RNA
+AM777385.2	EMBL	gene	117117	120004	.	-	.	ID=gene-LopeCp118;Name=rrn23;gbkey=Gene;gene=rrn23;gene_biotype=rRNA;locus_tag=LopeCp118
+AM777385.2	EMBL	rRNA	117117	120004	.	-	.	ID=id-LopeCp118;Parent=gene-LopeCp118;gbkey=rRNA;gene=rrn23;product=23S ribosomal RNA
+AM777385.2	EMBL	exon	117117	120004	.	-	.	ID=exon-id-LopeCp118-1;Parent=id-LopeCp118;gbkey=rRNA;gene=rrn23;product=23S ribosomal RNA
+AM777385.2	EMBL	gene	120997	121034	.	-	.	ID=gene-LopeCp119;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp119;part=1/3
+AM777385.2	EMBL	gene	120186	120996	.	-	.	ID=gene-LopeCp119;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp119;part=2/3
+AM777385.2	EMBL	gene	120151	120185	.	-	.	ID=gene-LopeCp119;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=other;is_ordered=true;locus_tag=LopeCp119;part=3/3
+AM777385.2	EMBL	intron	120186	120996	.	-	.	ID=id-LopeCp119;Note=group II intron;exon_number=1;gbkey=intron;gene=trnA-UGC;number=1
+AM777385.2	EMBL	gene	120997	121034	.	-	.	ID=gene-LopeCp119-2;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp119;part=1/2
+AM777385.2	EMBL	gene	120151	120185	.	-	.	ID=gene-LopeCp119-2;Name=trnA-UGC;gbkey=Gene;gene=trnA-UGC;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp119;part=2/2
+AM777385.2	EMBL	tRNA	120151	121034	.	-	.	ID=id-LopeCp119-2;Parent=gene-LopeCp119-2;gbkey=tRNA;gene=trnA-UGC;product=tRNA-Ala
+AM777385.2	EMBL	exon	120997	121034	.	-	.	ID=exon-id-LopeCp119-2-1;Parent=id-LopeCp119-2;gbkey=tRNA;gene=trnA-UGC;product=tRNA-Ala
+AM777385.2	EMBL	exon	120151	120185	.	-	.	ID=exon-id-LopeCp119-2-2;Parent=id-LopeCp119-2;gbkey=tRNA;gene=trnA-UGC;product=tRNA-Ala
+AM777385.2	EMBL	exon	120151	120185	.	-	.	ID=id-LopeCp119-2-2;Parent=gene-LopeCp119-2;exon_number=2;gbkey=exon;gene=trnA-UGC;number=2
+AM777385.2	EMBL	exon	120997	121034	.	-	.	ID=id-LopeCp119-1;Parent=gene-LopeCp119-2;exon_number=1;gbkey=exon;gene=trnA-UGC;number=1
+AM777385.2	EMBL	gene	121942	121978	.	-	.	ID=gene-LopeCp120;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=other;is_ordered=true;locus_tag=LopeCp120;part=1/3
+AM777385.2	EMBL	gene	121135	121941	.	-	.	ID=gene-LopeCp120;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=other;is_ordered=true;locus_tag=LopeCp120;part=2/3
+AM777385.2	EMBL	gene	121100	121134	.	-	.	ID=gene-LopeCp120;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=other;is_ordered=true;locus_tag=LopeCp120;part=3/3
+AM777385.2	EMBL	intron	121135	121941	.	-	.	ID=id-LopeCp120;Note=group II intron;exon_number=1;gbkey=intron;gene=trnI-GAU;number=1
+AM777385.2	EMBL	gene	121942	121978	.	-	.	ID=gene-LopeCp120-2;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp120;part=1/2
+AM777385.2	EMBL	gene	121100	121134	.	-	.	ID=gene-LopeCp120-2;Name=trnI-GAU;gbkey=Gene;gene=trnI-GAU;gene_biotype=tRNA;is_ordered=true;locus_tag=LopeCp120;part=2/2
+AM777385.2	EMBL	tRNA	121100	121978	.	-	.	ID=id-LopeCp120-2;Parent=gene-LopeCp120-2;gbkey=tRNA;gene=trnI-GAU;product=tRNA-Ile
+AM777385.2	EMBL	exon	121942	121978	.	-	.	ID=exon-id-LopeCp120-2-1;Parent=id-LopeCp120-2;gbkey=tRNA;gene=trnI-GAU;product=tRNA-Ile
+AM777385.2	EMBL	exon	121100	121134	.	-	.	ID=exon-id-LopeCp120-2-2;Parent=id-LopeCp120-2;gbkey=tRNA;gene=trnI-GAU;product=tRNA-Ile
+AM777385.2	EMBL	exon	121100	121134	.	-	.	ID=id-LopeCp120-2-2;Parent=gene-LopeCp120-2;exon_number=2;gbkey=exon;gene=trnI-GAU;number=2
+AM777385.2	EMBL	exon	121942	121978	.	-	.	ID=id-LopeCp120-1;Parent=gene-LopeCp120-2;exon_number=1;gbkey=exon;gene=trnI-GAU;number=1
+AM777385.2	EMBL	gene	122294	123785	.	-	.	ID=gene-LopeCp121;Name=rrn16;gbkey=Gene;gene=rrn16;gene_biotype=rRNA;locus_tag=LopeCp121
+AM777385.2	EMBL	rRNA	122294	123785	.	-	.	ID=id-LopeCp121;Parent=gene-LopeCp121;gbkey=rRNA;gene=rrn16;product=16S ribosomal RNA
+AM777385.2	EMBL	exon	122294	123785	.	-	.	ID=exon-id-LopeCp121-1;Parent=id-LopeCp121;gbkey=rRNA;gene=rrn16;product=16S ribosomal RNA
+AM777385.2	EMBL	gene	124015	124086	.	-	.	ID=gene-LopeCp122;Name=trnV-GAC;gbkey=Gene;gene=trnV-GAC;gene_biotype=tRNA;locus_tag=LopeCp122
+AM777385.2	EMBL	tRNA	124015	124086	.	-	.	ID=id-LopeCp122;Parent=gene-LopeCp122;gbkey=tRNA;gene=trnV-GAC;product=tRNA-Val
+AM777385.2	EMBL	exon	124015	124086	.	-	.	ID=exon-id-LopeCp122-1;Parent=id-LopeCp122;gbkey=tRNA;gene=trnV-GAC;product=tRNA-Val
+AM777385.2	EMBL	gene	125732	125963	.	+	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=other;is_ordered=true;part=1/3
+AM777385.2	EMBL	gene	125964	126503	.	+	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=other;is_ordered=true;part=2/3
+AM777385.2	EMBL	gene	126504	126532	.	+	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=other;is_ordered=true;part=3/3
+AM777385.2	EMBL	exon	125732	125963	.	+	.	ID=id-rps12-2;Parent=gene-rps12;exon_number=2;gbkey=exon;gene=rps12;number=2
+AM777385.2	EMBL	exon	126504	126532	.	+	.	ID=id-rps12-3;Parent=gene-rps12;exon_number=3;gbkey=exon;gene=rps12;number=3
+AM777385.2	EMBL	intron	125964	126503	.	+	.	ID=id-rps12;Note=group II intron;exon_number=2;gbkey=intron;gene=rps12;number=2
+AM777385.2	EMBL	gene	126586	127056	.	+	.	ID=gene-LopeCp124;Name=rps7;gbkey=Gene;gene=rps7;gene_biotype=protein_coding;locus_tag=LopeCp124
+AM777385.2	EMBL	CDS	126586	127056	.	+	0	ID=cds-CAO86034.1;Parent=gene-LopeCp124;Dbxref=GOA:A8Y9D1,InterPro:IPR000235,InterPro:IPR005717,InterPro:IPR020606,InterPro:IPR023798,UniProtKB/Swiss-Prot:A8Y9D1,NCBI_GP:CAO86034.1;Name=CAO86034.1;gbkey=CDS;gene=rps7;product=ribosomal protein S7;protein_id=CAO86034.1;transl_table=11
+AM777385.2	EMBL	gene	127356	128132	.	+	.	ID=gene-LopeCp125;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp125;part=1/3
+AM777385.2	EMBL	gene	128133	128847	.	+	.	ID=gene-LopeCp125;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp125;part=2/3
+AM777385.2	EMBL	gene	128848	129603	.	+	.	ID=gene-LopeCp125;Name=ndhB;gbkey=Gene;gene=ndhB;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp125;part=3/3
+AM777385.2	EMBL	CDS	127356	128132	.	+	0	ID=cds-CAO86035.1;Parent=gene-LopeCp125;Dbxref=GOA:P0CC87,InterPro:IPR001750,InterPro:IPR010096,UniProtKB/Swiss-Prot:P0CC87,NCBI_GP:CAO86035.1;Name=CAO86035.1;gbkey=CDS;gene=ndhB;product=NADH-plastoquinone oxidoreductase subunit 2;protein_id=CAO86035.1;transl_table=11
+AM777385.2	EMBL	CDS	128848	129603	.	+	0	ID=cds-CAO86035.1;Parent=gene-LopeCp125;Dbxref=GOA:P0CC87,InterPro:IPR001750,InterPro:IPR010096,UniProtKB/Swiss-Prot:P0CC87,NCBI_GP:CAO86035.1;Name=CAO86035.1;gbkey=CDS;gene=ndhB;product=NADH-plastoquinone oxidoreductase subunit 2;protein_id=CAO86035.1;transl_table=11
+AM777385.2	EMBL	exon	127356	128132	.	+	.	ID=id-LopeCp125-1;Parent=gene-LopeCp125;exon_number=1;gbkey=exon;gene=ndhB;number=1
+AM777385.2	EMBL	exon	128848	129603	.	+	.	ID=id-LopeCp125-2;Parent=gene-LopeCp125;exon_number=2;gbkey=exon;gene=ndhB;number=2
+AM777385.2	EMBL	intron	128133	128847	.	+	.	ID=id-LopeCp125;Note=group II intron;exon_number=1;gbkey=intron;gene=ndhB;number=1
+AM777385.2	EMBL	gene	130136	130216	.	+	.	ID=gene-LopeCp126;Name=trnL-CAA;gbkey=Gene;gene=trnL-CAA;gene_biotype=tRNA;locus_tag=LopeCp126
+AM777385.2	EMBL	tRNA	130136	130216	.	+	.	ID=id-LopeCp126;Parent=gene-LopeCp126;gbkey=tRNA;gene=trnL-CAA;product=tRNA-Leu
+AM777385.2	EMBL	exon	130136	130216	.	+	.	ID=exon-id-LopeCp126-1;Parent=id-LopeCp126;gbkey=tRNA;gene=trnL-CAA;product=tRNA-Leu
+AM777385.2	EMBL	gene	132668	132741	.	+	.	ID=gene-LopeCp127;Name=trnI-CAU;gbkey=Gene;gene=trnI-CAU;gene_biotype=tRNA;locus_tag=LopeCp127
+AM777385.2	EMBL	tRNA	132668	132741	.	+	.	ID=id-LopeCp127;Parent=gene-LopeCp127;gbkey=tRNA;gene=trnI-CAU;product=tRNA-Ile
+AM777385.2	EMBL	exon	132668	132741	.	+	.	ID=exon-id-LopeCp127-1;Parent=id-LopeCp127;gbkey=tRNA;gene=trnI-CAU;product=tRNA-Ile
+AM777385.2	EMBL	gene	132916	133197	.	+	.	ID=gene-LopeCp128;Name=rpl23;gbkey=Gene;gene=rpl23;gene_biotype=protein_coding;locus_tag=LopeCp128
+AM777385.2	EMBL	CDS	132916	133197	.	+	0	ID=cds-CAO86036.1;Parent=gene-LopeCp128;Dbxref=GOA:A8Y9C9,InterPro:IPR001014,InterPro:IPR012677,InterPro:IPR012678,InterPro:IPR013025,UniProtKB/TrEMBL:A8Y9C9,NCBI_GP:CAO86036.1;Name=CAO86036.1;gbkey=CDS;gene=rpl23;product=ribosomal protein L23;protein_id=CAO86036.1;transl_table=11
+AM777385.2	EMBL	gene	133216	133606	.	+	.	ID=gene-LopeCp129;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp129;part=1/3
+AM777385.2	EMBL	gene	133607	134269	.	+	.	ID=gene-LopeCp129;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp129;part=2/3
+AM777385.2	EMBL	gene	134270	134700	.	+	.	ID=gene-LopeCp129;Name=rpl2;gbkey=Gene;gene=rpl2;gene_biotype=protein_coding;is_ordered=true;locus_tag=LopeCp129;part=3/3
+AM777385.2	EMBL	CDS	133216	133606	.	+	0	ID=cds-CAO86037.3;Parent=gene-LopeCp129;Dbxref=GOA:A8Y9C8,InterPro:IPR002171,InterPro:IPR005880,InterPro:IPR008991,InterPro:IPR012340,InterPro:IPR014722,InterPro:IPR014726,InterPro:IPR016027,InterPro:IPR022666,InterPro:IPR022669,InterPro:IPR022671,UniProtKB/Swiss-Prot:A8Y9C8,NCBI_GP:CAO86037.3;Name=CAO86037.3;gbkey=CDS;gene=rpl2;product=ribosomal protein L2;protein_id=CAO86037.3;transl_except=(pos:133216..133218%2Caa:Met);transl_table=11
+AM777385.2	EMBL	CDS	134270	134700	.	+	2	ID=cds-CAO86037.3;Parent=gene-LopeCp129;Dbxref=GOA:A8Y9C8,InterPro:IPR002171,InterPro:IPR005880,InterPro:IPR008991,InterPro:IPR012340,InterPro:IPR014722,InterPro:IPR014726,InterPro:IPR016027,InterPro:IPR022666,InterPro:IPR022669,InterPro:IPR022671,UniProtKB/Swiss-Prot:A8Y9C8,NCBI_GP:CAO86037.3;Name=CAO86037.3;gbkey=CDS;gene=rpl2;product=ribosomal protein L2;protein_id=CAO86037.3;transl_except=(pos:133216..133218%2Caa:Met);transl_table=11
+AM777385.2	EMBL	exon	133216	133606	.	+	.	ID=id-LopeCp129-1;Parent=gene-LopeCp129;exon_number=1;gbkey=exon;gene=rpl2;number=1
+AM777385.2	EMBL	exon	134270	134700	.	+	.	ID=id-LopeCp129-2;Parent=gene-LopeCp129;exon_number=2;gbkey=exon;gene=rpl2;number=2
+AM777385.2	EMBL	intron	133607	134269	.	+	.	ID=id-LopeCp129;Note=group II intron;exon_number=1;gbkey=intron;gene=rpl2;number=1
+AM777385.2	EMBL	gene	134755	134828	.	-	.	ID=gene-LopeCp130;Name=trnH-GUG;gbkey=Gene;gene=trnH-GUG;gene_biotype=tRNA;locus_tag=LopeCp130
+AM777385.2	EMBL	tRNA	134755	134828	.	-	.	ID=id-LopeCp130;Parent=gene-LopeCp130;gbkey=tRNA;gene=trnH-GUG;product=tRNA-His
+AM777385.2	EMBL	exon	134755	134828	.	-	.	ID=exon-id-LopeCp130-1;Parent=id-LopeCp130;gbkey=tRNA;gene=trnH-GUG;product=tRNA-His
+AM777385.2	EMBL	gene	134965	135246	.	+	.	ID=gene-LopeCp131;Name=rps19;gbkey=Gene;gene=rps19;gene_biotype=protein_coding;locus_tag=LopeCp131
+AM777385.2	EMBL	CDS	134965	135246	.	+	0	ID=cds-CAO86038.1;Parent=gene-LopeCp131;Dbxref=GOA:A8Y9C7,InterPro:IPR002222,InterPro:IPR005732,InterPro:IPR020934,InterPro:IPR023575,UniProtKB/Swiss-Prot:A8Y9C7,NCBI_GP:CAO86038.1;Name=CAO86038.1;gbkey=CDS;gene=rps19;product=ribosomal protein S19;protein_id=CAO86038.1;transl_table=11
+

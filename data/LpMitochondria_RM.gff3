@@ -1,0 +1,215 @@
+##sequence-region JX999996.1 1 678580
+##species https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?id=4522
+JX999996.1	Genbank	region	1	678580	.	+	.	ID=id-1;Dbxref=taxon:4522;Is_circular=true;Name=MT;dev-stage=4 month old;gbkey=Src;genome=mitochondrion;genotype=F1-30;mol_type=genomic DNA;old-name=Lolium perenne L.;tissue-type=green leaf
+JX999996.1	Genbank	gene	1	1989	.	+	.	ID=gene-cox1;Name=cox1;gbkey=Gene;gene=cox1;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	1	1989	.	+	0	ID=cds-AGI48771.1;Parent=gene-cox1;Dbxref=NCBI_GP:AGI48771.1;Name=AGI48771.1;gbkey=CDS;gene=cox1;product=cytochrome c oxidase subunit 1;protein_id=AGI48771.1
+JX999996.1	Genbank	gene	11905	11978	.	-	.	ID=gene-trnfM;Name=trnfM;gbkey=Gene;gene=trnfM;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	11905	11978	.	-	.	ID=id-trnfM;Parent=gene-trnfM;gbkey=tRNA;gene=trnfM;product=tRNA-Met
+JX999996.1	Genbank	exon	11905	11978	.	-	.	ID=exon-id-trnfM-1;Parent=id-trnfM;gbkey=tRNA;gene=trnfM;product=tRNA-Met
+JX999996.1	Genbank	gene	35605	35829	.	+	.	ID=gene-atp9;Name=atp9;gbkey=Gene;gene=atp9;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	35605	35829	.	+	0	ID=cds-AGI48772.1;Parent=gene-atp9;Dbxref=NCBI_GP:AGI48772.1;Name=AGI48772.1;gbkey=CDS;gene=atp9;product=ATP synthase subunits 9;protein_id=AGI48772.1
+JX999996.1	Genbank	gene	43953	51878	.	+	.	ID=gene-nad4;Name=nad4;gbkey=Gene;gene=nad4;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	43953	44413	.	+	0	ID=cds-AGI48773.1;Parent=gene-nad4;Dbxref=NCBI_GP:AGI48773.1;Name=AGI48773.1;gbkey=CDS;gene=nad4;product=NADH dehydrogenase subunit 4;protein_id=AGI48773.1
+JX999996.1	Genbank	CDS	45442	45956	.	+	1	ID=cds-AGI48773.1;Parent=gene-nad4;Dbxref=NCBI_GP:AGI48773.1;Name=AGI48773.1;gbkey=CDS;gene=nad4;product=NADH dehydrogenase subunit 4;protein_id=AGI48773.1
+JX999996.1	Genbank	CDS	48576	48998	.	+	2	ID=cds-AGI48773.1;Parent=gene-nad4;Dbxref=NCBI_GP:AGI48773.1;Name=AGI48773.1;gbkey=CDS;gene=nad4;product=NADH dehydrogenase subunit 4;protein_id=AGI48773.1
+JX999996.1	Genbank	CDS	51790	51878	.	+	2	ID=cds-AGI48773.1;Parent=gene-nad4;Dbxref=NCBI_GP:AGI48773.1;Name=AGI48773.1;gbkey=CDS;gene=nad4;product=NADH dehydrogenase subunit 4;protein_id=AGI48773.1
+JX999996.1	Genbank	gene	77314	79290	.	-	.	ID=gene-matR;Name=matR;gbkey=Gene;gene=matR;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	77314	79290	.	-	0	ID=cds-AGI48775.1;Parent=gene-matR;Dbxref=NCBI_GP:AGI48775.1;Name=AGI48775.1;gbkey=CDS;gene=matR;product=maturase;protein_id=AGI48775.1
+JX999996.1	Genbank	gene	82801	83436	.	-	.	ID=gene-rps1;Name=rps1;gbkey=Gene;gene=rps1;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	82801	83436	.	-	0	ID=cds-AGI48776.1;Parent=gene-rps1;Dbxref=NCBI_GP:AGI48776.1;Name=AGI48776.1;gbkey=CDS;gene=rps1;product=ribosomal protein S1;protein_id=AGI48776.1
+JX999996.1	Genbank	gene	83571	85340	.	-	.	ID=gene-ccmFN;Name=ccmFN;gbkey=Gene;gene=ccmFN;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	83571	85340	.	-	0	ID=cds-AGI48777.1;Parent=gene-ccmFN;Dbxref=NCBI_GP:AGI48777.1;Name=AGI48777.1;gbkey=CDS;gene=ccmFN;product=cytochrome c biogenesis FN;protein_id=AGI48777.1
+JX999996.1	Genbank	gene	93583	94617	.	-	.	ID=gene-rps4;Name=rps4;gbkey=Gene;gene=rps4;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	93583	94617	.	-	0	ID=cds-AGI48778.1;Parent=gene-rps4;Dbxref=NCBI_GP:AGI48778.1;Name=AGI48778.1;gbkey=CDS;gene=rps4;product=ribosomal protein S4;protein_id=AGI48778.1
+JX999996.1	Genbank	gene	115757	119217	.	-	.	ID=gene-rrn26;Name=rrn26;gbkey=Gene;gene=rrn26;gene_biotype=rRNA
+JX999996.1	Genbank	rRNA	115757	119217	.	-	.	ID=id-rrn26;Parent=gene-rrn26;gbkey=rRNA;gene=rrn26;product=26S ribosomal RNA
+JX999996.1	Genbank	exon	115757	119217	.	-	.	ID=exon-id-rrn26-1;Parent=id-rrn26;gbkey=rRNA;gene=rrn26;product=26S ribosomal RNA
+JX999996.1	Genbank	gene	129749	129822	.	-	.	ID=gene-trnD;Name=trnD;gbkey=Gene;gene=trnD;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	129749	129822	.	-	.	ID=id-trnD;Parent=gene-trnD;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+JX999996.1	Genbank	exon	129749	129822	.	-	.	ID=exon-id-trnD-1;Parent=id-trnD;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+JX999996.1	Genbank	gene	132035	132685	.	-	.	ID=gene-ccmB;Name=ccmB;gbkey=Gene;gene=ccmB;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	132035	132685	.	-	0	ID=cds-AGI48779.1;Parent=gene-ccmB;Dbxref=NCBI_GP:AGI48779.1;Name=AGI48779.1;gbkey=CDS;gene=ccmB;product=cytochrome c biogenesis B;protein_id=AGI48779.1
+JX999996.1	Genbank	gene	137010	137387	.	-	.	ID=gene-rps12;Name=rps12;gbkey=Gene;gene=rps12;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	137010	137387	.	-	0	ID=cds-AGI48780.1;Parent=gene-rps12;Dbxref=NCBI_GP:AGI48780.1;Name=AGI48780.1;gbkey=CDS;gene=rps12;product=ribosomal protein S12;protein_id=AGI48780.1
+JX999996.1	Genbank	gene	137432	137788	.	-	.	ID=gene-nad3;Name=nad3;gbkey=Gene;gene=nad3;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	137432	137788	.	-	0	ID=cds-AGI48781.1;Parent=gene-nad3;Dbxref=NCBI_GP:AGI48781.1;Name=AGI48781.1;gbkey=CDS;gene=nad3;product=NADH dehydrogenase subunit 3;protein_id=AGI48781.1
+JX999996.1	Genbank	gene	138301	138388	.	-	.	ID=gene-trnS;Name=trnS;gbkey=Gene;gene=trnS;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	138301	138388	.	-	.	ID=id-trnS;Parent=gene-trnS;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+JX999996.1	Genbank	exon	138301	138388	.	-	.	ID=exon-id-trnS-1;Parent=id-trnS;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+JX999996.1	Genbank	gene	151087	151158	.	+	.	ID=gene-trnQ;Name=trnQ;gbkey=Gene;gene=trnQ;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	151087	151158	.	+	.	ID=id-trnQ;Parent=gene-trnQ;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+JX999996.1	Genbank	exon	151087	151158	.	+	.	ID=exon-id-trnQ-1;Parent=id-trnQ;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+JX999996.1	Genbank	gene	171961	172034	.	-	.	ID=gene-trnW;Name=trnW;gbkey=Gene;gene=trnW;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	171961	172034	.	-	.	ID=id-trnW;Parent=gene-trnW;gbkey=tRNA;gene=trnW;product=tRNA-Trp
+JX999996.1	Genbank	exon	171961	172034	.	-	.	ID=exon-id-trnW-1;Parent=id-trnW;gbkey=tRNA;gene=trnW;product=tRNA-Trp
+JX999996.1	Genbank	gene	172177	172250	.	-	.	ID=gene-trnP;Name=trnP;gbkey=Gene;gene=trnP;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	172177	172250	.	-	.	ID=id-trnP;Parent=gene-trnP;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+JX999996.1	Genbank	exon	172177	172250	.	-	.	ID=exon-id-trnP-1;Parent=id-trnP;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+JX999996.1	Genbank	gene	174964	175036	.	-	.	ID=gene-trnK;Name=trnK;gbkey=Gene;gene=trnK;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	174964	175036	.	-	.	ID=id-trnK;Parent=gene-trnK;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+JX999996.1	Genbank	exon	174964	175036	.	-	.	ID=exon-id-trnK-1;Parent=id-trnK;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+JX999996.1	Genbank	gene	177808	178254	.	-	.	ID=gene-rps7;Name=rps7;gbkey=Gene;gene=rps7;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	177808	178254	.	-	0	ID=cds-AGI48795.1;Parent=gene-rps7;Dbxref=NCBI_GP:AGI48795.1;Name=AGI48795.1;gbkey=CDS;gene=rps7;product=ribosomal protein S7;protein_id=AGI48795.1
+JX999996.1	Genbank	gene	185132	185203	.	+	.	ID=gene-trnQ-2;Name=trnQ;gbkey=Gene;gene=trnQ;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	185132	185203	.	+	.	ID=id-trnQ-2;Parent=gene-trnQ-2;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+JX999996.1	Genbank	exon	185132	185203	.	+	.	ID=exon-id-trnQ-2-1;Parent=id-trnQ-2;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+JX999996.1	Genbank	gene	190178	190729	.	+	.	ID=gene-rpl5;Name=rpl5;gbkey=Gene;gene=rpl5;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	190178	190729	.	+	0	ID=cds-AGI48783.1;Parent=gene-rpl5;Dbxref=NCBI_GP:AGI48783.1;Name=AGI48783.1;gbkey=CDS;gene=rpl5;product=ribosomal protein L5;protein_id=AGI48783.1
+JX999996.1	Genbank	gene	190863	191021	.	+	.	ID=gene-rps14;Name=rps14;gbkey=Gene;gene=rps14;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	190863	191021	.	+	0	ID=cds-AGI48784.1;Parent=gene-rps14;Dbxref=NCBI_GP:AGI48784.1;Name=AGI48784.1;gbkey=CDS;gene=rps14;product=ribosomal protein S14;protein_id=AGI48784.1
+JX999996.1	Genbank	gene	213945	219945	.	+	.	ID=gene-nad7;Name=nad7;gbkey=Gene;gene=nad7;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	213945	214087	.	+	0	ID=cds-AGI48785.1;Parent=gene-nad7;Dbxref=NCBI_GP:AGI48785.1;Name=AGI48785.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48785.1
+JX999996.1	Genbank	CDS	214890	214958	.	+	1	ID=cds-AGI48785.1;Parent=gene-nad7;Dbxref=NCBI_GP:AGI48785.1;Name=AGI48785.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48785.1
+JX999996.1	Genbank	CDS	216269	216735	.	+	1	ID=cds-AGI48785.1;Parent=gene-nad7;Dbxref=NCBI_GP:AGI48785.1;Name=AGI48785.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48785.1
+JX999996.1	Genbank	CDS	217735	217978	.	+	2	ID=cds-AGI48785.1;Parent=gene-nad7;Dbxref=NCBI_GP:AGI48785.1;Name=AGI48785.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48785.1
+JX999996.1	Genbank	CDS	219684	219945	.	+	1	ID=cds-AGI48785.1;Parent=gene-nad7;Dbxref=NCBI_GP:AGI48785.1;Name=AGI48785.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48785.1
+JX999996.1	Genbank	gene	221721	221791	.	-	.	ID=gene-trnC;Name=trnC;gbkey=Gene;gene=trnC;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	221721	221791	.	-	.	ID=id-trnC;Parent=gene-trnC;gbkey=tRNA;gene=trnC;product=tRNA-Cys
+JX999996.1	Genbank	exon	221721	221791	.	-	.	ID=exon-id-trnC-1;Parent=id-trnC;gbkey=tRNA;gene=trnC;product=tRNA-Cys
+JX999996.1	Genbank	gene	228586	231167	.	+	.	ID=gene-rps3;Name=rps3;gbkey=Gene;gene=rps3;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	228586	228657	.	+	0	ID=cds-AGI48786.1;Parent=gene-rps3;Dbxref=NCBI_GP:AGI48786.1;Name=AGI48786.1;gbkey=CDS;gene=rps3;product=ribosomal protein S3;protein_id=AGI48786.1
+JX999996.1	Genbank	CDS	229590	231167	.	+	0	ID=cds-AGI48786.1;Parent=gene-rps3;Dbxref=NCBI_GP:AGI48786.1;Name=AGI48786.1;gbkey=CDS;gene=rps3;product=ribosomal protein S3;protein_id=AGI48786.1
+JX999996.1	Genbank	gene	231058	231615	.	+	.	ID=gene-rpl16;Name=rpl16;gbkey=Gene;gene=rpl16;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	231058	231615	.	+	0	ID=cds-AGI48787.1;Parent=gene-rpl16;Dbxref=NCBI_GP:AGI48787.1;Name=AGI48787.1;gbkey=CDS;gene=rpl16;product=ribosomal protein L16;protein_id=AGI48787.1
+JX999996.1	Genbank	gene	232540	233733	.	+	.	ID=gene-cob;Name=cob;gbkey=Gene;gene=cob;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	232540	233733	.	+	0	ID=cds-AGI48788.1;Parent=gene-cob;Dbxref=NCBI_GP:AGI48788.1;Name=AGI48788.1;gbkey=CDS;gene=cob;product=apocytochrome b;protein_id=AGI48788.1
+JX999996.1	Genbank	gene	634967	637277	.	-	.	ID=gene-nad5;Name=nad5;exception=trans-splicing;gbkey=Gene;gene=nad5;gene_biotype=protein_coding;part=1/3
+JX999996.1	Genbank	gene	76157	76177	.	-	.	ID=gene-nad5;Name=nad5;exception=trans-splicing;gbkey=Gene;gene=nad5;gene_biotype=protein_coding;part=2/3
+JX999996.1	Genbank	gene	236297	237773	.	-	.	ID=gene-nad5;Name=nad5;exception=trans-splicing;gbkey=Gene;gene=nad5;gene_biotype=protein_coding;part=3/3
+JX999996.1	Genbank	CDS	637049	637277	.	-	0	ID=cds-AGI48807.1;Parent=gene-nad5;Dbxref=NCBI_GP:AGI48807.1;Name=AGI48807.1;exception=trans-splicing;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit 5;protein_id=AGI48807.1
+JX999996.1	Genbank	CDS	634970	636186	.	-	2	ID=cds-AGI48807.1;Parent=gene-nad5;Dbxref=NCBI_GP:AGI48807.1;Name=AGI48807.1;exception=trans-splicing;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit 5;protein_id=AGI48807.1
+JX999996.1	Genbank	CDS	76157	76177	.	-	0	ID=cds-AGI48807.1;Parent=gene-nad5;Dbxref=NCBI_GP:AGI48807.1;Name=AGI48807.1;exception=trans-splicing;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit 5;protein_id=AGI48807.1
+JX999996.1	Genbank	CDS	237378	237773	.	-	0	ID=cds-AGI48807.1;Parent=gene-nad5;Dbxref=NCBI_GP:AGI48807.1;Name=AGI48807.1;exception=trans-splicing;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit 5;protein_id=AGI48807.1
+JX999996.1	Genbank	CDS	236297	236446	.	-	0	ID=cds-AGI48807.1;Parent=gene-nad5;Dbxref=NCBI_GP:AGI48807.1;Name=AGI48807.1;exception=trans-splicing;gbkey=CDS;gene=nad5;product=NADH dehydrogenase subunit 5;protein_id=AGI48807.1
+JX999996.1	Genbank	gene	248209	248559	.	-	.	ID=gene-rps13;Name=rps13;gbkey=Gene;gene=rps13;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	248209	248559	.	-	0	ID=cds-AGI48789.1;Parent=gene-rps13;Dbxref=NCBI_GP:AGI48789.1;Name=AGI48789.1;gbkey=CDS;gene=rps13;product=ribosomal protein S13;protein_id=AGI48789.1
+JX999996.1	Genbank	pseudogene	262935	263007	.	+	.	ID=gene-trnF;Name=trnF;description=tRNA-Phe;gbkey=Gene;gene=trnF;gene_biotype=pseudogene;pseudo=true;pseudogene=unknown
+JX999996.1	Genbank	gene	263099	263413	.	+	.	ID=gene-nad4L;Name=nad4L;gbkey=Gene;gene=nad4L;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	263099	263413	.	+	0	ID=cds-AGI48790.1;Parent=gene-nad4L;Dbxref=NCBI_GP:AGI48790.1;Name=AGI48790.1;gbkey=CDS;gene=nad4L;product=NADH dehydrogenase subunit 4L;protein_id=AGI48790.1
+JX999996.1	Genbank	gene	282933	283007	.	+	.	ID=gene-trnP-2;Name=trnP;gbkey=Gene;gene=trnP;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	282933	283007	.	+	.	ID=id-trnP-2;Parent=gene-trnP-2;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+JX999996.1	Genbank	exon	282933	283007	.	+	.	ID=exon-id-trnP-2-1;Parent=id-trnP-2;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+JX999996.1	Genbank	gene	284188	284574	.	+	.	ID=gene-nad1;Name=nad1;exception=trans-splicing;gbkey=Gene;gene=nad1;gene_biotype=protein_coding;part=1/4;partial=true;start_range=.,284188
+JX999996.1	Genbank	gene	245995	247675	.	-	.	ID=gene-nad1;Name=nad1;exception=trans-splicing;gbkey=Gene;gene=nad1;gene_biotype=protein_coding;part=2/4;partial=true
+JX999996.1	Genbank	gene	512368	512427	.	-	.	ID=gene-nad1;Name=nad1;exception=trans-splicing;gbkey=Gene;gene=nad1;gene_biotype=protein_coding;part=3/4;partial=true
+JX999996.1	Genbank	gene	76540	76797	.	-	.	ID=gene-nad1;Name=nad1;exception=trans-splicing;gbkey=Gene;gene=nad1;gene_biotype=protein_coding;part=4/4;partial=true
+JX999996.1	Genbank	CDS	284188	284574	.	+	0	ID=cds-AGI48774.1;Parent=gene-nad1;Dbxref=NCBI_GP:AGI48774.1;Name=AGI48774.1;Note=start codon not determined;exception=trans-splicing;gbkey=CDS;gene=nad1;partial=true;product=NADH dehydrogenase subunit 1;protein_id=AGI48774.1;start_range=.,284188
+JX999996.1	Genbank	CDS	247595	247675	.	-	0	ID=cds-AGI48774.1;Parent=gene-nad1;Dbxref=NCBI_GP:AGI48774.1;Name=AGI48774.1;Note=start codon not determined;exception=trans-splicing;gbkey=CDS;gene=nad1;partial=true;product=NADH dehydrogenase subunit 1;protein_id=AGI48774.1
+JX999996.1	Genbank	CDS	245995	246186	.	-	0	ID=cds-AGI48774.1;Parent=gene-nad1;Dbxref=NCBI_GP:AGI48774.1;Name=AGI48774.1;Note=start codon not determined;exception=trans-splicing;gbkey=CDS;gene=nad1;partial=true;product=NADH dehydrogenase subunit 1;protein_id=AGI48774.1
+JX999996.1	Genbank	CDS	512368	512427	.	-	0	ID=cds-AGI48774.1;Parent=gene-nad1;Dbxref=NCBI_GP:AGI48774.1;Name=AGI48774.1;Note=start codon not determined;exception=trans-splicing;gbkey=CDS;gene=nad1;partial=true;product=NADH dehydrogenase subunit 1;protein_id=AGI48774.1
+JX999996.1	Genbank	CDS	76540	76797	.	-	0	ID=cds-AGI48774.1;Parent=gene-nad1;Dbxref=NCBI_GP:AGI48774.1;Name=AGI48774.1;Note=start codon not determined;exception=trans-splicing;gbkey=CDS;gene=nad1;partial=true;product=NADH dehydrogenase subunit 1;protein_id=AGI48774.1
+JX999996.1	Genbank	gene	292308	292775	.	+	.	ID=gene-atp8;Name=atp8;gbkey=Gene;gene=atp8;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	292308	292775	.	+	0	ID=cds-AGI48791.1;Parent=gene-atp8;Dbxref=NCBI_GP:AGI48791.1;Name=AGI48791.1;gbkey=CDS;gene=atp8;product=ATP synthase subunits 8;protein_id=AGI48791.1
+JX999996.1	Genbank	gene	304917	304990	.	+	.	ID=gene-trnH;Name=trnH;gbkey=Gene;gene=trnH;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	304917	304990	.	+	.	ID=id-trnH;Parent=gene-trnH;gbkey=tRNA;gene=trnH;product=tRNA-His
+JX999996.1	Genbank	exon	304917	304990	.	+	.	ID=exon-id-trnH-1;Parent=id-trnH;gbkey=tRNA;gene=trnH;product=tRNA-His
+JX999996.1	Genbank	gene	312019	313548	.	-	.	ID=gene-atp1;Name=atp1;gbkey=Gene;gene=atp1;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	312019	313548	.	-	0	ID=cds-AGI48792.1;Parent=gene-atp1;Dbxref=NCBI_GP:AGI48792.1;Name=AGI48792.1;gbkey=CDS;gene=atp1;product=ATP synthase subunits 1;protein_id=AGI48792.1
+JX999996.1	Genbank	gene	323224	325005	.	-	.	ID=gene-nad2;Name=nad2;exception=trans-splicing;gbkey=Gene;gene=nad2;gene_biotype=protein_coding;part=1/2
+JX999996.1	Genbank	gene	588653	593381	.	+	.	ID=gene-nad2;Name=nad2;exception=trans-splicing;gbkey=Gene;gene=nad2;gene_biotype=protein_coding;part=2/2
+JX999996.1	Genbank	CDS	324853	325005	.	-	0	ID=cds-AGI48793.1;Parent=gene-nad2;Dbxref=NCBI_GP:AGI48793.1;Name=AGI48793.1;exception=trans-splicing;gbkey=CDS;gene=nad2;product=NADH dehydrogenase subunit 2;protein_id=AGI48793.1
+JX999996.1	Genbank	CDS	323224	323619	.	-	0	ID=cds-AGI48793.1;Parent=gene-nad2;Dbxref=NCBI_GP:AGI48793.1;Name=AGI48793.1;exception=trans-splicing;gbkey=CDS;gene=nad2;product=NADH dehydrogenase subunit 2;protein_id=AGI48793.1
+JX999996.1	Genbank	CDS	588653	588809	.	+	0	ID=cds-AGI48793.1;Parent=gene-nad2;Dbxref=NCBI_GP:AGI48793.1;Name=AGI48793.1;exception=trans-splicing;gbkey=CDS;gene=nad2;product=NADH dehydrogenase subunit 2;protein_id=AGI48793.1
+JX999996.1	Genbank	CDS	591214	591786	.	+	2	ID=cds-AGI48793.1;Parent=gene-nad2;Dbxref=NCBI_GP:AGI48793.1;Name=AGI48793.1;exception=trans-splicing;gbkey=CDS;gene=nad2;product=NADH dehydrogenase subunit 2;protein_id=AGI48793.1
+JX999996.1	Genbank	CDS	593194	593381	.	+	2	ID=cds-AGI48793.1;Parent=gene-nad2;Dbxref=NCBI_GP:AGI48793.1;Name=AGI48793.1;exception=trans-splicing;gbkey=CDS;gene=nad2;product=NADH dehydrogenase subunit 2;protein_id=AGI48793.1
+JX999996.1	Genbank	gene	335648	336235	.	+	.	ID=gene-atp4;Name=atp4;gbkey=Gene;gene=atp4;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	335648	336235	.	+	0	ID=cds-AGI48794.1;Parent=gene-atp4;Dbxref=NCBI_GP:AGI48794.1;Name=AGI48794.1;gbkey=CDS;gene=atp4;product=ATP synthase subunits 4;protein_id=AGI48794.1
+JX999996.1	Genbank	gene	338298	338371	.	+	.	ID=gene-trnD-2;Name=trnD;gbkey=Gene;gene=trnD;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	338298	338371	.	+	.	ID=id-trnD-2;Parent=gene-trnD-2;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+JX999996.1	Genbank	exon	338298	338371	.	+	.	ID=exon-id-trnD-2-1;Parent=id-trnD-2;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+JX999996.1	Genbank	gene	348904	352360	.	+	.	ID=gene-rrn26-2;Name=rrn26;gbkey=Gene;gene=rrn26;gene_biotype=rRNA
+JX999996.1	Genbank	rRNA	348904	352360	.	+	.	ID=id-rrn26-2;Parent=gene-rrn26-2;gbkey=rRNA;gene=rrn26;product=26S ribosomal RNA
+JX999996.1	Genbank	exon	348904	352360	.	+	.	ID=exon-id-rrn26-2-1;Parent=id-rrn26-2;gbkey=rRNA;gene=rrn26;product=26S ribosomal RNA
+JX999996.1	Genbank	gene	371486	371558	.	-	.	ID=gene-trnF-2;Name=trnF;gbkey=Gene;gene=trnF;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	371486	371558	.	-	.	ID=id-trnF;Parent=gene-trnF-2;gbkey=tRNA;gene=trnF;product=tRNA-Phe
+JX999996.1	Genbank	exon	371486	371558	.	-	.	ID=exon-id-trnF-1;Parent=id-trnF;gbkey=tRNA;gene=trnF;product=tRNA-Phe
+JX999996.1	Genbank	gene	379430	379515	.	+	.	ID=gene-trnS-2;Name=trnS;gbkey=Gene;gene=trnS;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	379430	379515	.	+	.	ID=id-trnS-2;Parent=gene-trnS-2;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+JX999996.1	Genbank	exon	379430	379515	.	+	.	ID=exon-id-trnS-2-1;Parent=id-trnS-2;gbkey=tRNA;gene=trnS;product=tRNA-Ser
+JX999996.1	Genbank	gene	380279	380725	.	+	.	ID=gene-rps7-2;Name=rps7;gbkey=Gene;gene=rps7;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	380279	380725	.	+	0	ID=cds-AGI48782.1;Parent=gene-rps7-2;Dbxref=NCBI_GP:AGI48782.1;Name=AGI48782.1;gbkey=CDS;gene=rps7;product=ribosomal protein S7;protein_id=AGI48782.1
+JX999996.1	Genbank	gene	383497	383569	.	+	.	ID=gene-trnK-2;Name=trnK;gbkey=Gene;gene=trnK;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	383497	383569	.	+	.	ID=id-trnK-2;Parent=gene-trnK-2;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+JX999996.1	Genbank	exon	383497	383569	.	+	.	ID=exon-id-trnK-2-1;Parent=id-trnK-2;gbkey=tRNA;gene=trnK;product=tRNA-Lys
+JX999996.1	Genbank	gene	386282	386355	.	+	.	ID=gene-trnP-3;Name=trnP;gbkey=Gene;gene=trnP;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	386282	386355	.	+	.	ID=id-trnP-3;Parent=gene-trnP-3;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+JX999996.1	Genbank	exon	386282	386355	.	+	.	ID=exon-id-trnP-3-1;Parent=id-trnP-3;gbkey=tRNA;gene=trnP;product=tRNA-Pro
+JX999996.1	Genbank	gene	386498	386571	.	+	.	ID=gene-trnW-2;Name=trnW;gbkey=Gene;gene=trnW;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	386498	386571	.	+	.	ID=id-trnW-2;Parent=gene-trnW-2;gbkey=tRNA;gene=trnW;product=tRNA-Trp
+JX999996.1	Genbank	exon	386498	386571	.	+	.	ID=exon-id-trnW-2-1;Parent=id-trnW-2;gbkey=tRNA;gene=trnW;product=tRNA-Trp
+JX999996.1	Genbank	gene	407374	407445	.	-	.	ID=gene-trnQ-3;Name=trnQ;gbkey=Gene;gene=trnQ;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	407374	407445	.	-	.	ID=id-trnQ-3;Parent=gene-trnQ-3;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+JX999996.1	Genbank	exon	407374	407445	.	-	.	ID=exon-id-trnQ-3-1;Parent=id-trnQ-3;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+JX999996.1	Genbank	gene	415086	415799	.	+	.	ID=gene-atp6;Name=atp6;gbkey=Gene;gene=atp6;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	415086	415799	.	+	0	ID=cds-AGI48796.1;Parent=gene-atp6;Dbxref=NCBI_GP:AGI48796.1;Name=AGI48796.1;gbkey=CDS;gene=atp6;product=ATP synthase subunits 6;protein_id=AGI48796.1
+JX999996.1	Genbank	gene	441367	441437	.	+	.	ID=gene-trnC-2;Name=trnC;gbkey=Gene;gene=trnC;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	441367	441437	.	+	.	ID=id-trnC-2;Parent=gene-trnC-2;gbkey=tRNA;gene=trnC;product=tRNA-Cys
+JX999996.1	Genbank	exon	441367	441437	.	+	.	ID=exon-id-trnC-2-1;Parent=id-trnC-2;gbkey=tRNA;gene=trnC;product=tRNA-Cys
+JX999996.1	Genbank	gene	443214	449214	.	-	.	ID=gene-nad7-2;Name=nad7;gbkey=Gene;gene=nad7;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	449072	449214	.	-	0	ID=cds-AGI48797.1;Parent=gene-nad7-2;Dbxref=NCBI_GP:AGI48797.1;Name=AGI48797.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48797.1
+JX999996.1	Genbank	CDS	448201	448269	.	-	1	ID=cds-AGI48797.1;Parent=gene-nad7-2;Dbxref=NCBI_GP:AGI48797.1;Name=AGI48797.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48797.1
+JX999996.1	Genbank	CDS	446424	446890	.	-	1	ID=cds-AGI48797.1;Parent=gene-nad7-2;Dbxref=NCBI_GP:AGI48797.1;Name=AGI48797.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48797.1
+JX999996.1	Genbank	CDS	445181	445424	.	-	2	ID=cds-AGI48797.1;Parent=gene-nad7-2;Dbxref=NCBI_GP:AGI48797.1;Name=AGI48797.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48797.1
+JX999996.1	Genbank	CDS	443214	443475	.	-	1	ID=cds-AGI48797.1;Parent=gene-nad7-2;Dbxref=NCBI_GP:AGI48797.1;Name=AGI48797.1;gbkey=CDS;gene=nad7;product=NADH dehydrogenase subunit 7;protein_id=AGI48797.1
+JX999996.1	Genbank	gene	472138	472296	.	-	.	ID=gene-rps14-2;Name=rps14;gbkey=Gene;gene=rps14;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	472138	472296	.	-	0	ID=cds-AGI48798.1;Parent=gene-rps14-2;Dbxref=NCBI_GP:AGI48798.1;Name=AGI48798.1;gbkey=CDS;gene=rps14;product=ribosomal protein S14;protein_id=AGI48798.1
+JX999996.1	Genbank	gene	472430	472981	.	-	.	ID=gene-rpl5-2;Name=rpl5;gbkey=Gene;gene=rpl5;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	472430	472981	.	-	0	ID=cds-AGI48799.1;Parent=gene-rpl5-2;Dbxref=NCBI_GP:AGI48799.1;Name=AGI48799.1;gbkey=CDS;gene=rpl5;product=ribosomal protein L5;protein_id=AGI48799.1
+JX999996.1	Genbank	gene	477956	478027	.	-	.	ID=gene-trnQ-4;Name=trnQ;gbkey=Gene;gene=trnQ;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	477956	478027	.	-	.	ID=id-trnQ-4;Parent=gene-trnQ-4;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+JX999996.1	Genbank	exon	477956	478027	.	-	.	ID=exon-id-trnQ-4-1;Parent=id-trnQ-4;gbkey=tRNA;gene=trnQ;product=tRNA-Gln
+JX999996.1	Genbank	gene	484835	486900	.	+	.	ID=gene-cox2;Name=cox2;gbkey=Gene;gene=cox2;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	484835	485222	.	+	0	ID=cds-AGI48800.1;Parent=gene-cox2;Dbxref=NCBI_GP:AGI48800.1;Name=AGI48800.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=AGI48800.1
+JX999996.1	Genbank	CDS	486506	486900	.	+	2	ID=cds-AGI48800.1;Parent=gene-cox2;Dbxref=NCBI_GP:AGI48800.1;Name=AGI48800.1;gbkey=CDS;gene=cox2;product=cytochrome c oxidase subunit 2;protein_id=AGI48800.1
+JX999996.1	Genbank	gene	498862	500827	.	+	.	ID=gene-rrn18;Name=rrn18;gbkey=Gene;gene=rrn18;gene_biotype=rRNA
+JX999996.1	Genbank	rRNA	498862	500827	.	+	.	ID=id-rrn18;Parent=gene-rrn18;gbkey=rRNA;gene=rrn18;product=18S ribosomal RNA
+JX999996.1	Genbank	exon	498862	500827	.	+	.	ID=exon-id-rrn18-1;Parent=id-rrn18;gbkey=rRNA;gene=rrn18;product=18S ribosomal RNA
+JX999996.1	Genbank	gene	500941	501062	.	+	.	ID=gene-rrn5;Name=rrn5;gbkey=Gene;gene=rrn5;gene_biotype=rRNA
+JX999996.1	Genbank	rRNA	500941	501062	.	+	.	ID=id-rrn5;Parent=gene-rrn5;gbkey=rRNA;gene=rrn5;product=5S ribosomal RNA
+JX999996.1	Genbank	exon	500941	501062	.	+	.	ID=exon-id-rrn5-1;Parent=id-rrn5;gbkey=rRNA;gene=rrn5;product=5S ribosomal RNA
+JX999996.1	Genbank	gene	510437	511381	.	-	.	ID=gene-nad6;Name=nad6;gbkey=Gene;gene=nad6;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	510437	511381	.	-	0	ID=cds-AGI48801.1;Parent=gene-nad6;Dbxref=NCBI_GP:AGI48801.1;Name=AGI48801.1;gbkey=CDS;gene=nad6;product=NADH dehydrogenase subunit 6;protein_id=AGI48801.1
+JX999996.1	Genbank	gene	519648	522077	.	+	.	ID=gene-ccmFC;Name=ccmFC;gbkey=Gene;gene=ccmFC;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	519648	520402	.	+	0	ID=cds-AGI48802.1;Parent=gene-ccmFC;Dbxref=NCBI_GP:AGI48802.1;Name=AGI48802.1;gbkey=CDS;gene=ccmFC;product=cytochrome c biogenesis FC;protein_id=AGI48802.1
+JX999996.1	Genbank	CDS	521399	522077	.	+	1	ID=cds-AGI48802.1;Parent=gene-ccmFC;Dbxref=NCBI_GP:AGI48802.1;Name=AGI48802.1;gbkey=CDS;gene=ccmFC;product=cytochrome c biogenesis FC;protein_id=AGI48802.1
+JX999996.1	Genbank	gene	548992	549076	.	-	.	ID=gene-trnL;Name=trnL;gbkey=Gene;gene=trnL;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	548992	549076	.	-	.	ID=id-trnL;Parent=gene-trnL;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+JX999996.1	Genbank	exon	549042	549076	.	-	.	ID=exon-id-trnL-1;Parent=id-trnL;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+JX999996.1	Genbank	exon	548992	549029	.	-	.	ID=exon-id-trnL-2;Parent=id-trnL;gbkey=tRNA;gene=trnL;product=tRNA-Leu
+JX999996.1	Genbank	gene	549113	549835	.	-	.	ID=gene-ccmC;Name=ccmC;gbkey=Gene;gene=ccmC;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	549113	549835	.	-	0	ID=cds-AGI48803.1;Parent=gene-ccmC;Dbxref=NCBI_GP:AGI48803.1;Name=AGI48803.1;gbkey=CDS;gene=ccmC;product=cytochrome c biogenesis C;protein_id=AGI48803.1
+JX999996.1	Genbank	gene	566875	568841	.	+	.	ID=gene-rrn18-2;Name=rrn18;gbkey=Gene;gene=rrn18;gene_biotype=rRNA
+JX999996.1	Genbank	rRNA	566875	568841	.	+	.	ID=id-rrn18-2;Parent=gene-rrn18-2;gbkey=rRNA;gene=rrn18;product=18S ribosomal RNA
+JX999996.1	Genbank	exon	566875	568841	.	+	.	ID=exon-id-rrn18-2-1;Parent=id-rrn18-2;gbkey=rRNA;gene=rrn18;product=18S ribosomal RNA
+JX999996.1	Genbank	gene	568955	569076	.	+	.	ID=gene-rrn5-2;Name=rrn5;gbkey=Gene;gene=rrn5;gene_biotype=rRNA
+JX999996.1	Genbank	rRNA	568955	569076	.	+	.	ID=id-rrn5-2;Parent=gene-rrn5-2;gbkey=rRNA;gene=rrn5;product=5S ribosomal RNA
+JX999996.1	Genbank	exon	568955	569076	.	+	.	ID=exon-id-rrn5-2-1;Parent=id-rrn5-2;gbkey=rRNA;gene=rrn5;product=5S ribosomal RNA
+JX999996.1	Genbank	gene	575833	577296	.	+	.	ID=gene-rps2;Name=rps2;gbkey=Gene;gene=rps2;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	575833	577296	.	+	0	ID=cds-AGI48804.1;Parent=gene-rps2;Dbxref=NCBI_GP:AGI48804.1;Name=AGI48804.1;gbkey=CDS;gene=rps2;product=ribosomal protein S2;protein_id=AGI48804.1
+JX999996.1	Genbank	gene	587933	588015	.	+	.	ID=gene-trnY;Name=trnY;gbkey=Gene;gene=trnY;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	587933	588015	.	+	.	ID=id-trnY;Parent=gene-trnY;gbkey=tRNA;gene=trnY;product=tRNA-Tyr
+JX999996.1	Genbank	exon	587933	588015	.	+	.	ID=exon-id-trnY-1;Parent=id-trnY;gbkey=tRNA;gene=trnY;product=tRNA-Tyr
+JX999996.1	Genbank	gene	603531	604562	.	+	.	ID=gene-rps4-2;Name=rps4;gbkey=Gene;gene=rps4;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	603531	604562	.	+	0	ID=cds-AGI48805.1;Parent=gene-rps4-2;Dbxref=NCBI_GP:AGI48805.1;Name=AGI48805.1;gbkey=CDS;gene=rps4;product=ribosomal protein S4;protein_id=AGI48805.1
+JX999996.1	Genbank	gene	604582	605397	.	+	.	ID=gene-mttB;Name=mttB;gbkey=Gene;gene=mttB;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	604582	605397	.	+	0	ID=cds-AGI48806.1;Parent=gene-mttB;Dbxref=NCBI_GP:AGI48806.1;Name=AGI48806.1;gbkey=CDS;gene=mttB;product=transport membrane protein;protein_id=AGI48806.1
+JX999996.1	Genbank	gene	615054	615127	.	-	.	ID=gene-trnM;Name=trnM;gbkey=Gene;gene=trnM;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	615054	615127	.	-	.	ID=id-trnM;Parent=gene-trnM;gbkey=tRNA;gene=trnM;product=tRNA-Met
+JX999996.1	Genbank	exon	615054	615127	.	-	.	ID=exon-id-trnM-1;Parent=id-trnM;gbkey=tRNA;gene=trnM;product=tRNA-Met
+JX999996.1	Genbank	gene	615471	615544	.	+	.	ID=gene-trnD-3;Name=trnD;gbkey=Gene;gene=trnD;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	615471	615544	.	+	.	ID=id-trnD-3;Parent=gene-trnD-3;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+JX999996.1	Genbank	exon	615471	615544	.	+	.	ID=exon-id-trnD-3-1;Parent=id-trnD-3;gbkey=tRNA;gene=trnD;product=tRNA-Asp
+JX999996.1	Genbank	gene	616184	616255	.	-	.	ID=gene-trnN;Name=trnN;gbkey=Gene;gene=trnN;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	616184	616255	.	-	.	ID=id-trnN;Parent=gene-trnN;gbkey=tRNA;gene=trnN;product=tRNA-Asn
+JX999996.1	Genbank	exon	616184	616255	.	-	.	ID=exon-id-trnN-1;Parent=id-trnN;gbkey=tRNA;gene=trnN;product=tRNA-Asn
+JX999996.1	Genbank	gene	630497	630569	.	+	.	ID=gene-trnM-2;Name=trnM;gbkey=Gene;gene=trnM;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	630497	630569	.	+	.	ID=id-trnM-2;Parent=gene-trnM-2;gbkey=tRNA;gene=trnM;product=tRNA-Met
+JX999996.1	Genbank	exon	630497	630569	.	+	.	ID=exon-id-trnM-2-1;Parent=id-trnM-2;gbkey=tRNA;gene=trnM;product=tRNA-Met
+JX999996.1	Genbank	gene	649329	649401	.	+	.	ID=gene-trnE;Name=trnE;gbkey=Gene;gene=trnE;gene_biotype=tRNA
+JX999996.1	Genbank	tRNA	649329	649401	.	+	.	ID=id-trnE;Parent=gene-trnE;gbkey=tRNA;gene=trnE;product=tRNA-Glu
+JX999996.1	Genbank	exon	649329	649401	.	+	.	ID=exon-id-trnE-1;Parent=id-trnE;gbkey=tRNA;gene=trnE;product=tRNA-Glu
+JX999996.1	Genbank	gene	669561	670133	.	+	.	ID=gene-nad9;Name=nad9;gbkey=Gene;gene=nad9;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	669561	670133	.	+	0	ID=cds-AGI48808.1;Parent=gene-nad9;Dbxref=NCBI_GP:AGI48808.1;Name=AGI48808.1;gbkey=CDS;gene=nad9;product=NADH dehydrogenase subunit 9;protein_id=AGI48808.1
+JX999996.1	Genbank	gene	670403	671245	.	+	.	ID=gene-cox3;Name=cox3;gbkey=Gene;gene=cox3;gene_biotype=protein_coding
+JX999996.1	Genbank	CDS	670403	671245	.	+	0	ID=cds-AGI48809.1;Parent=gene-cox3;Dbxref=NCBI_GP:AGI48809.1;Name=AGI48809.1;gbkey=CDS;gene=cox3;product=cytochrome c oxidase subunit 3;protein_id=AGI48809.1
+
